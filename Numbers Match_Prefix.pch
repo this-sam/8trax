@@ -1,0 +1,19 @@
+//
+// Prefix header for all source files of the 'MatchKana' target in the 'MatchKana' project
+//
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+	#import <UIKit/UIKit.h>
+#endif
+
+//DEBUG CONFIGURATION
+//Before distribution remove the debug definition
+//
+#define DEBUG 1
+
+#ifdef DEBUG
+#   define DLog(fmt, ...) NSLog((@"%s:%d " fmt), __PRETTY_FUNCTION__, __LINE__, ##__VA_ARGS__);
+#else
+#   define DLog(...)
+#endif
