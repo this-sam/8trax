@@ -1,0 +1,2935 @@
+TNumbers Match
+v7
+r0
+t343771677.097572
+cCheck dependencies
+cProcessInfoPlistFile "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Info.plist" Resources/Info.plist
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/fps_images.png" Resources/fps_images.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/LICENSE" LICENSE
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/Default.png" "Resources/app assets/Default.png"
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/Default@2x.png" "Resources/app assets/Default@2x.png"
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/Icon.png" "Resources/app assets/Icon.png"
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/Icon@2x.png" "Resources/app assets/Icon@2x.png"
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-arabic-hd.png" Resources/arabic/HiRes/1-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-arabic-hd.png" Resources/arabic/HiRes/10-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-arabic-hd.png" Resources/arabic/HiRes/100-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-arabic-hd.png" Resources/arabic/HiRes/1000-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-arabic-hd.png" Resources/arabic/HiRes/2-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-arabic-hd.png" Resources/arabic/HiRes/3-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-arabic-hd.png" Resources/arabic/HiRes/4-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-arabic-hd.png" Resources/arabic/HiRes/5-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-arabic-hd.png" Resources/arabic/HiRes/50-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-arabic-hd.png" Resources/arabic/HiRes/500-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-arabic-hd.png" Resources/arabic/HiRes/6-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-arabic-hd.png" Resources/arabic/HiRes/7-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-arabic-hd.png" Resources/arabic/HiRes/8-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-arabic-hd.png" Resources/arabic/HiRes/9-arabic-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-arabic.png" Resources/arabic/LowRes/1-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-arabic.png" Resources/arabic/LowRes/10-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-arabic.png" Resources/arabic/LowRes/100-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-arabic.png" Resources/arabic/LowRes/1000-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-arabic.png" Resources/arabic/LowRes/2-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-arabic.png" Resources/arabic/LowRes/3-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-arabic.png" Resources/arabic/LowRes/4-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-arabic.png" Resources/arabic/LowRes/5-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-arabic.png" Resources/arabic/LowRes/50-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-arabic.png" Resources/arabic/LowRes/500-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-arabic.png" Resources/arabic/LowRes/6-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-arabic.png" Resources/arabic/LowRes/7-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-arabic.png" Resources/arabic/LowRes/8-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-arabic.png" Resources/arabic/LowRes/9-arabic.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-roman-hd.png" Resources/roman/HiRes/1-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-roman-hd.png" Resources/roman/HiRes/10-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-roman-hd.png" Resources/roman/HiRes/100-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-roman-hd.png" Resources/roman/HiRes/1000-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-roman-hd.png" Resources/roman/HiRes/2-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-roman-hd.png" Resources/roman/HiRes/3-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-roman-hd.png" Resources/roman/HiRes/4-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-roman-hd.png" Resources/roman/HiRes/5-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-roman-hd.png" Resources/roman/HiRes/50-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-roman-hd.png" Resources/roman/HiRes/500-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-roman-hd.png" Resources/roman/HiRes/6-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-roman-hd.png" Resources/roman/HiRes/7-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-roman-hd.png" Resources/roman/HiRes/8-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-roman-hd.png" Resources/roman/HiRes/9-roman-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-roman.png" Resources/roman/LowRes/1-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-roman.png" Resources/roman/LowRes/10-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-roman.png" Resources/roman/LowRes/100-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-roman.png" Resources/roman/LowRes/1000-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-roman.png" Resources/roman/LowRes/2-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-roman.png" Resources/roman/LowRes/3-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-roman.png" Resources/roman/LowRes/4-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-roman.png" Resources/roman/LowRes/5-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-roman.png" Resources/roman/LowRes/50-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-roman.png" Resources/roman/LowRes/500-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-roman.png" Resources/roman/LowRes/6-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-roman.png" Resources/roman/LowRes/7-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-roman.png" Resources/roman/LowRes/8-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-roman.png" Resources/roman/LowRes/9-roman.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/background-hd.png" Resources/UI/background-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/background.png" Resources/UI/background.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnInfo-hd.png" Resources/UI/btnInfo-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnInfo.png" Resources/UI/btnInfo.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible-hd.png" Resources/UI/btnIsLabelVisible-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible.png" Resources/UI/btnIsLabelVisible.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected-hd.png" Resources/UI/btnIsLabelVisibleSelected-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected.png" Resources/UI/btnIsLabelVisibleSelected.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/InfoScreen-hd.png" Resources/UI/InfoScreen-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/InfoScreen.png" Resources/UI/InfoScreen.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/menuBackImage-hd.png" Resources/UI/menuBackImage-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/menuBackImage.png" Resources/UI/menuBackImage.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/newgame-hd.png" Resources/UI/newgame-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/newgame.png" Resources/UI/newgame.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/tileBack-hd.png" Resources/UI/tileBack-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/tileBack.png" Resources/UI/tileBack.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/winText-hd.png" Resources/UI/winText-hd.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/winText.png" Resources/UI/winText.png
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/match.caf" Resources/match.caf
+cCpResource "build/Debug-iphonesimulator/Numbers Match.app/win.caf" Resources/win.caf
+cProcessPCH "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch.gch" "Numbers Match_Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/main.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchKanaAppDelegate.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/HelloWorldScene.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/RootViewController.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchManager.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/TileSprite.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/NSMutableArray+Shuffle.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/CardFlipAction.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/InfoScreen.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+cLd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match" normal i386
+cGenerateDSYMFile "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app.dSYM" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match"
+cTouch "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk
+c000000004D5C9B4E0000000000000110
+t1297914702
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004D5EBEC300000000001340C0
+t1298054851
+s1261760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004D5EBEBB00000000000007D0
+t1298054843
+s2000
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004D54D3440000000000078770
+t1297404740
+s493424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004D54CF5D0000000000205F50
+t1297403741
+s2121552
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.h
+c000000004D54CF4A0000000000000A23
+t1297403722
+s2595
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreFoundation.framework/Headers/CFURL.h
+c000000004D54CEB4000000000000A48C
+t1297403572
+s42124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004D54CFFA00000000002999B0
+t1297403898
+s2726320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+c000000004D54CF0300000000000022F0
+t1297403651
+s8944
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGImage.h
+c000000004D54CF030000000000002650
+t1297403651
+s9808
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004D54DEBC00000000000778F0
+t1297407676
+s489712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004D54CFE5000000000029DA70
+t1297403877
+s2742896
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004D54CFB80000000000001466
+t1297403832
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MapKit.framework/MapKit
+c000000004D5C9BEB000000000018CAB0
+t1297914859
+s1624752
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004D5EBF5300000000001C31B0
+t1298054995
+s1847728
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/MessageUI.framework/MessageUI
+c000000004D5DE869000000000009B020
+t1297999977
+s634912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenAL.framework/Headers/al.h
+c000000004D54CFAC00000000000064FD
+t1297403820
+s25853
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenAL.framework/Headers/alc.h
+c000000004D54CFAC0000000000001F45
+t1297403820
+s8005
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenAL.framework/OpenAL
+c000000004D54CFAF0000000000025740
+t1297403823
+s153408
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGL.h
+c000000004D54D24F000000000000094F
+t1297404495
+s2383
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/EAGLDrawable.h
+c000000004D54D24F0000000000000A61
+t1297404495
+s2657
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/gl.h
+c000000004D54D24F0000000000009369
+t1297404495
+s37737
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/ES1/glext.h
+c000000004D54D24F0000000000003C4A
+t1297404495
+s15434
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+c000000004D54D28100000000000191D0
+t1297404545
+s102864
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004D54D2DD00000000000000C4
+t1297404637
+s196
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004D54D4200000000000162C50
+t1297404960
+s1453136
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004D54CF0700000000000689C0
+t1297403655
+s428480
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004D5615B40000000000000AA1
+t1297487284
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004D5616030000000000766870
+t1297487363
+s7759984
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/System/Library/Frameworks/iAd.framework/iAd
+c000000004D5EC07A000000000003E070
+t1298055290
+s254064
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/Availability.h
+c000000004D4F7A2B0000000000001B19
+t1297054251
+s6937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/inttypes.h
+c000000004D4F6E990000000000002674
+t1297051289
+s9844
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/math.h
+c000000004A5C14A000000000000004F1
+t1247548576
+s1265
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/objc/objc.h
+c000000004D54CB430000000000000B92
+t1297402691
+s2962
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stddef.h
+c000000004D4F6E990000000000001404
+t1297051289
+s5124
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/stdlib.h
+c000000004D4F6E9A00000000000030A7
+t1297051290
+s12455
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/string.h
+c000000004D4F6E9A0000000000001A3A
+t1297051290
+s6714
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/include/sys/time.h
+c000000004D54D0EC0000000000001E64
+t1297404140
+s7780
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libsqlite3.dylib
+c000000004D54CB720000000000099500
+t1297402738
+s627968
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk/usr/lib/libz.dylib
+c000000004D54CB4700000000000123C0
+t1297402695
+s74688
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.h
+c000000004DE7419600000000000001AF
+t1307001238
+s431
+i<Foundation/Foundation.h>
+i"TileSprite.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.m
+c000000004E228EB2000000000000031A
+t1310887602
+s794
+i"CardFlipAction.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/GameConfig.h
+c000000004D1D0A240000000000000220
+t1293748772
+s544
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.h
+c000000004DE77BD700000000000002A0
+t1307016151
+s672
+i"cocos2d.h"
+i"MatchManager.h"
+i"MatchGameConfig.h"
+i"TileSprite.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.m
+c000000004DE77BEA000000000000106E
+t1307016170
+s4206
+i"HelloWorldScene.h"
+i"InfoScreen.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.h
+c000000004DE55B4000000000000000FC
+t1306876736
+s252
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.m
+c000000004DE775B5000000000000045E
+t1307014581
+s1118
+i"InfoScreen.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchGameConfig.h
+c000000004DE54E62000000000000024F
+t1306873442
+s591
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.h
+c000000004D1B7AB70000000000000181
+t1293646519
+s385
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.m
+c000000004D1D0B9C0000000000001197
+t1293749148
+s4503
+i"cocos2d.h"
+i"MatchKanaAppDelegate.h"
+i"GameConfig.h"
+i"HelloWorldScene.h"
+i"RootViewController.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.h
+c000000004DE7769E000000000000044B
+t1307014814
+s1099
+i<Foundation/Foundation.h>
+i"MatchGameConfig.h"
+i"TileSprite.h"
+i"SimpleAudioEngine.h"
+i"TileSpriteDelegateProtocol.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.m
+c000000004E22A7FD0000000000001B50
+t1310894077
+s6992
+i"MatchManager.h"
+i"NSMutableArray+Shuffle.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.h
+c000000004D1BA17000000000000000F6
+t1293656432
+s246
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.m
+c000000004DE7683F0000000000000345
+t1307011135
+s837
+i"NSMutableArray+Shuffle.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.h
+c000000004D1B7AB700000000000000E8
+t1293646519
+s232
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.m
+c000000004D1D0A500000000000001182
+t1293748816
+s4482
+i"cocos2d.h"
+i"RootViewController.h"
+i"GameConfig.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.h
+c000000004E22A84E0000000000000428
+t1310894158
+s1064
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+i"MatchGameConfig.h"
+i"CardFlipAction.h"
+i"TileSpriteDelegateProtocol.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.m
+c000000004E22A81F0000000000000B96
+t1310894111
+s2966
+i"TileSprite.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSpriteDelegateProtocol.h
+c000000004DE744F8000000000000012C
+t1307002104
+s300
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/LICENSE
+c000000004E22A9D30000000000000114
+t1310894547
+s276
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Numbers Match_Prefix.pch
+c000000004D1B865100000000000001A1
+t1293649489
+s417
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/InfoScreen-hd.png
+c000000004DE55A28000000000000B352
+t1306876456
+s45906
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/InfoScreen.png
+c000000004DE55A3700000000000113D8
+t1306876471
+s70616
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/background-hd.png
+c000000004E0B71F20000000000083300
+t1309372914
+s537344
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/background.png
+c000000004E0B72000000000000021FDE
+t1309372928
+s139230
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnInfo-hd.png
+c000000004DE557FF00000000000003F5
+t1306875903
+s1013
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnInfo.png
+c000000004DE5580E0000000000000562
+t1306875918
+s1378
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisible-hd.png
+c000000004DE5588F0000000000000448
+t1306876047
+s1096
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisible.png
+c000000004DE558BE0000000000000771
+t1306876094
+s1905
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisibleSelected-hd.png
+c000000004DE558AF0000000000000357
+t1306876079
+s855
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisibleSelected.png
+c000000004DE558BD0000000000000661
+t1306876093
+s1633
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/menuBackImage-hd.png
+c000000004DE55AD500000000000007B0
+t1306876629
+s1968
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/menuBackImage.png
+c000000004DE55AE50000000000000ACA
+t1306876645
+s2762
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/newgame-hd.png
+c000000004DE557610000000000000759
+t1306875745
+s1881
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/newgame.png
+c000000004DE557710000000000000B96
+t1306875761
+s2966
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/tileBack-hd.png
+c000000004DE54ABC0000000000000816
+t1306872508
+s2070
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/tileBack.png
+c000000004DE54AC50000000000000736
+t1306872517
+s1846
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/winText-hd.png
+c000000004DE556FD00000000000009DA
+t1306875645
+s2522
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/winText.png
+c000000004DE5570A0000000000000FE6
+t1306875658
+s4070
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Default.png
+c000000004E0B70B5000000000001C15F
+t1309372597
+s115039
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Default@2x.png
+c000000004E0B6F1900000000000B8E85
+t1309372185
+s757381
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Icon.png
+c000000004E22AAB100000000000001F6
+t1310894769
+s502
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Icon@2x.png
+c000000004E22AAA500000000000002BD
+t1310894757
+s701
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/1-arabic-hd.png
+c000000004DE54664000000000000095B
+t1306871396
+s2395
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/10-arabic-hd.png
+c000000004DE546A90000000000000C2C
+t1306871465
+s3116
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/100-arabic-hd.png
+c000000004DE546BB0000000000000CB4
+t1306871483
+s3252
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/1000-arabic-hd.png
+c000000004DE546D60000000000000D77
+t1306871510
+s3447
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/2-arabic-hd.png
+c000000004DE5466E0000000000000AF9
+t1306871406
+s2809
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/3-arabic-hd.png
+c000000004DE546750000000000000B75
+t1306871413
+s2933
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/4-arabic-hd.png
+c000000004DE5467B00000000000009FC
+t1306871419
+s2556
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/5-arabic-hd.png
+c000000004DE546820000000000000AE9
+t1306871426
+s2793
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/50-arabic-hd.png
+c000000004DE546B30000000000000D7F
+t1306871475
+s3455
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/500-arabic-hd.png
+c000000004DE546C20000000000000E00
+t1306871490
+s3584
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/6-arabic-hd.png
+c000000004DE5468B0000000000000B71
+t1306871435
+s2929
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/7-arabic-hd.png
+c000000004DE546910000000000000A0E
+t1306871441
+s2574
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/8-arabic-hd.png
+c000000004DE546990000000000000C11
+t1306871449
+s3089
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/9-arabic-hd.png
+c000000004DE546A10000000000000B3D
+t1306871457
+s2877
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/1-arabic.png
+c000000004DE547040000000000000963
+t1306871556
+s2403
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/10-arabic.png
+c000000004DE547040000000000000D90
+t1306871556
+s3472
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/100-arabic.png
+c000000004DE547040000000000001112
+t1306871556
+s4370
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/1000-arabic.png
+c000000004DE54704000000000000145B
+t1306871556
+s5211
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/2-arabic.png
+c000000004DE547040000000000000BCD
+t1306871556
+s3021
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/3-arabic.png
+c000000004DE547040000000000000BC9
+t1306871556
+s3017
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/4-arabic.png
+c000000004DE547040000000000000A90
+t1306871556
+s2704
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/5-arabic.png
+c000000004DE547040000000000000BBA
+t1306871556
+s3002
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/50-arabic.png
+c000000004DE547040000000000000FA1
+t1306871556
+s4001
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/500-arabic.png
+c000000004DE547040000000000001336
+t1306871556
+s4918
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/6-arabic.png
+c000000004DE547040000000000000BE3
+t1306871556
+s3043
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/7-arabic.png
+c000000004DE547040000000000000A4A
+t1306871556
+s2634
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/8-arabic.png
+c000000004DE547040000000000000C77
+t1306871556
+s3191
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/9-arabic.png
+c000000004DE547040000000000000BFA
+t1306871556
+s3066
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/fps_images.png
+c000000004D1B7AB7000000000000183B
+t1293646519
+s6203
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/match.caf
+c000000004E21DAF9000000000001E800
+t1310841593
+s124928
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/1-roman-hd.png
+c000000004DE545510000000000000946
+t1306871121
+s2374
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/10-roman-hd.png
+c000000004DE545E00000000000000C32
+t1306871264
+s3122
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/100-roman-hd.png
+c000000004DE545FE0000000000000BA1
+t1306871294
+s2977
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/1000-roman-hd.png
+c000000004DE546150000000000000C2B
+t1306871317
+s3115
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/2-roman-hd.png
+c000000004DE54590000000000000099B
+t1306871184
+s2459
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/3-roman-hd.png
+c000000004DE5459E00000000000009F1
+t1306871198
+s2545
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/4-roman-hd.png
+c000000004DE545A70000000000000C4A
+t1306871207
+s3146
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/5-roman-hd.png
+c000000004DE545B00000000000000B6C
+t1306871216
+s2924
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/50-roman-hd.png
+c000000004DE545F000000000000009C9
+t1306871280
+s2505
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/500-roman-hd.png
+c000000004DE546070000000000000B53
+t1306871303
+s2899
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/6-roman-hd.png
+c000000004DE545BA0000000000000C38
+t1306871226
+s3128
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/7-roman-hd.png
+c000000004DE545C20000000000000C87
+t1306871234
+s3207
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/8-roman-hd.png
+c000000004DE545CA0000000000000CF2
+t1306871242
+s3314
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/9-roman-hd.png
+c000000004DE545D40000000000000D02
+t1306871252
+s3330
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/1-roman.png
+c000000004DE547190000000000000990
+t1306871577
+s2448
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/10-roman.png
+c000000004DE547190000000000000D5D
+t1306871577
+s3421
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/100-roman.png
+c000000004DE547190000000000000C1E
+t1306871577
+s3102
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/1000-roman.png
+c000000004DE547190000000000000DF6
+t1306871577
+s3574
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/2-roman.png
+c000000004DE547190000000000000AFC
+t1306871577
+s2812
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/3-roman.png
+c000000004DE547190000000000000CD3
+t1306871577
+s3283
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/4-roman.png
+c000000004DE547190000000000000E00
+t1306871577
+s3584
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/5-roman.png
+c000000004DE547190000000000000C50
+t1306871577
+s3152
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/50-roman.png
+c000000004DE547190000000000000A00
+t1306871577
+s2560
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/500-roman.png
+c000000004DE547190000000000000C57
+t1306871577
+s3159
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/6-roman.png
+c000000004DE547190000000000000E40
+t1306871577
+s3648
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/7-roman.png
+c000000004DE547190000000000000FDC
+t1306871577
+s4060
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/8-roman.png
+c000000004DE5471900000000000010EA
+t1306871577
+s4330
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/9-roman.png
+c000000004DE547190000000000000EF3
+t1306871577
+s3827
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/win.caf
+c000000004E21DB0300000000001BC024
+t1310841603
+s1818660
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app
+t1322078877
+s2958
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app.dSYM
+t1322078877
+s102
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1-arabic-hd.png
+t1322078873
+s2395
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1-arabic.png
+t1322078873
+s2403
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1-roman-hd.png
+t1322078873
+s2374
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1-roman.png
+t1322078873
+s2448
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/10-arabic-hd.png
+t1322078873
+s3116
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/10-arabic.png
+t1322078873
+s3472
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/10-roman-hd.png
+t1322078873
+s3122
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/10-roman.png
+t1322078873
+s3421
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/100-arabic-hd.png
+t1322078873
+s3252
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/100-arabic.png
+t1322078873
+s4370
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/100-roman-hd.png
+t1322078873
+s2977
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/100-roman.png
+t1322078873
+s3102
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1000-arabic-hd.png
+t1322078873
+s3447
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1000-arabic.png
+t1322078873
+s5211
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1000-roman-hd.png
+t1322078873
+s3115
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/1000-roman.png
+t1322078873
+s3574
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/2-arabic-hd.png
+t1322078873
+s2809
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/2-arabic.png
+t1322078873
+s3021
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/2-roman-hd.png
+t1322078873
+s2459
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/2-roman.png
+t1322078873
+s2812
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/3-arabic-hd.png
+t1322078873
+s2933
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/3-arabic.png
+t1322078873
+s3017
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/3-roman-hd.png
+t1322078873
+s2545
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/3-roman.png
+t1322078873
+s3283
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/4-arabic-hd.png
+t1322078873
+s2556
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/4-arabic.png
+t1322078873
+s2704
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/4-roman-hd.png
+t1322078873
+s3146
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/4-roman.png
+t1322078873
+s3584
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/5-arabic-hd.png
+t1322078873
+s2793
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/5-arabic.png
+t1322078873
+s3002
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/5-roman-hd.png
+t1322078873
+s2924
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/5-roman.png
+t1322078873
+s3152
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/50-arabic-hd.png
+t1322078873
+s3455
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/50-arabic.png
+t1322078873
+s4001
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/50-roman-hd.png
+t1322078873
+s2505
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/50-roman.png
+t1322078873
+s2560
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/500-arabic-hd.png
+t1322078873
+s3584
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/500-arabic.png
+t1322078873
+s4918
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/500-roman-hd.png
+t1322078873
+s2899
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/500-roman.png
+t1322078873
+s3159
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/6-arabic-hd.png
+t1322078873
+s2929
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/6-arabic.png
+t1322078873
+s3043
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/6-roman-hd.png
+t1322078873
+s3128
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/6-roman.png
+t1322078873
+s3648
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/7-arabic-hd.png
+t1322078873
+s2574
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/7-arabic.png
+t1322078873
+s2634
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/7-roman-hd.png
+t1322078873
+s3207
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/7-roman.png
+t1322078873
+s4060
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/8-arabic-hd.png
+t1322078873
+s3089
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/8-arabic.png
+t1322078873
+s3191
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/8-roman-hd.png
+t1322078873
+s3314
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/8-roman.png
+t1322078873
+s4330
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/9-arabic-hd.png
+t1322078873
+s2877
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/9-arabic.png
+t1322078873
+s3066
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/9-roman-hd.png
+t1322078873
+s3330
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/9-roman.png
+t1322078873
+s3827
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Default.png
+t1322078873
+s115039
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Default@2x.png
+t1322078873
+s757381
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Icon.png
+t1322078873
+s502
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Icon@2x.png
+t1322078873
+s701
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Info.plist
+t1322078873
+s772
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/InfoScreen-hd.png
+t1322078873
+s45906
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/InfoScreen.png
+t1322078873
+s70616
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/LICENSE
+t1322078873
+s276
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match
+t1322078876
+s1703032
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/PkgInfo
+t1322078873
+s8
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/background-hd.png
+t1322078873
+s537344
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/background.png
+t1322078873
+s139230
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/btnInfo-hd.png
+t1322078873
+s1013
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/btnInfo.png
+t1322078873
+s1378
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible-hd.png
+t1322078873
+s1096
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible.png
+t1322078873
+s1905
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected-hd.png
+t1322078873
+s855
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected.png
+t1322078873
+s1633
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/fps_images.png
+t1322078873
+s6203
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/match.caf
+t1322078874
+s124928
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/menuBackImage-hd.png
+t1322078873
+s1968
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/menuBackImage.png
+t1322078873
+s2762
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/newgame-hd.png
+t1322078873
+s1881
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/newgame.png
+t1322078873
+s2966
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/tileBack-hd.png
+t1322078873
+s2070
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/tileBack.png
+t1322078873
+s1846
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/win.caf
+t1322078874
+s1818660
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/winText-hd.png
+t1322078873
+s2522
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/winText.png
+t1322078874
+s4070
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/libcocos2d libraries.a
+c000000004ECD529900000000003CA6D8
+t1322078873
+s3974872
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/CardFlipAction.o
+t1322078876
+s16456
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/HelloWorldScene.o
+t1322078875
+s30916
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/InfoScreen.o
+t1322078876
+s15524
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchKanaAppDelegate.o
+t1322078875
+s62768
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchManager.o
+t1322078875
+s49248
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/NSMutableArray+Shuffle.o
+t1322078875
+s5116
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/Numbers Match.LinkFileList
+c000000004ECD5299000000000000057B
+t1322078873
+s1403
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/RootViewController.o
+t1322078875
+s44664
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/TileSprite.o
+t1322078875
+s30992
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/main.o
+t1322078875
+s4100
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/CocosDenshion/CDAudioManager.h
+c000000004D1B7AB800000000000024D2
+t1293646520
+s9426
+i"CocosDenshion.h"
+i<AVFoundation/AVFoundation.h>
+i"CDXMacOSXSupport.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/CocosDenshion/CDConfig.h
+c000000004D1B7AB80000000000000A9A
+t1293646520
+s2714
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/CocosDenshion/CDOpenALSupport.h
+c000000004D1B7AB80000000000000CF9
+t1293646520
+s3321
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<CoreFoundation/CFURL.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/CocosDenshion/CocosDenshion.h
+c000000004D1B7AB800000000000037AC
+t1293646520
+s14252
+i<OpenAL/al.h>
+i<OpenAL/alc.h>
+i<AudioToolbox/AudioToolbox.h>
+i<Foundation/Foundation.h>
+i"CDConfig.h"
+i"CDOpenALSupport.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/CocosDenshion/SimpleAudioEngine.h
+c000000004D1B7AB80000000000000EE0
+t1293646520
+s3808
+i"CDAudioManager.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCAction.h
+c000000004D1B7AB8000000000000167A
+t1293646520
+s5754
+i<sys/time.h>
+i<Foundation/Foundation.h>
+i"ccTypes.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionCamera.h
+c000000004D1B7AB800000000000009BC
+t1293646520
+s2492
+i"CCActionInterval.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionEase.h
+c000000004D1B7AB80000000000001671
+t1293646520
+s5745
+i"CCActionInterval.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionGrid.h
+c000000004D1B7AB8000000000000148B
+t1293646520
+s5259
+i"CCActionInterval.h"
+i"CCActionInstant.h"
+i"CCGrid.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionGrid3D.h
+c000000004D1B7AB80000000000001A8A
+t1293646520
+s6794
+i"CCActionGrid.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionInstant.h
+c000000004D1B7AB800000000000013AA
+t1293646520
+s5034
+i"CCAction.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionInterval.h
+c000000004D1B7AB80000000000003265
+t1293646520
+s12901
+i"CCNode.h"
+i"CCAction.h"
+i"CCProtocols.h"
+i<sys/time.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionManager.h
+c000000004D1B7AB80000000000001071
+t1293646520
+s4209
+i"CCAction.h"
+i"Support/ccCArray.h"
+i"Support/uthash.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionPageTurn3D.h
+c000000004D1B7AB80000000000000644
+t1293646520
+s1604
+i"CCActionGrid3D.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionProgressTimer.h
+c000000004D1B7AB8000000000000088D
+t1293646520
+s2189
+i<Foundation/Foundation.h>
+i"CCProgressTimer.h"
+i"CCActionInterval.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionTiledGrid.h
+c000000004D1B7AB80000000000001A15
+t1293646520
+s6677
+i"CCActionGrid.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCActionTween.h
+c000000004D1B7AB80000000000000931
+t1293646520
+s2353
+i<Foundation/Foundation.h>
+i"CCActionInterval.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCAnimation.h
+c000000004D1B7AB8000000000000126D
+t1293646520
+s4717
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCAnimationCache.h
+c000000004D1B7AB800000000000008DD
+t1293646520
+s2269
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCAtlasNode.h
+c000000004D1B7AB80000000000000C06
+t1293646520
+s3078
+i"CCTextureAtlas.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCBlockSupport.h
+c000000004D1B7AB8000000000000066F
+t1293646520
+s1647
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCCamera.h
+c000000004D1B7AB80000000000000C84
+t1293646520
+s3204
+i"CCNode.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCCompatibility.h
+c000000004D1B7AB80000000000003891
+t1293646520
+s14481
+i<Foundation/Foundation.h>
+i"cocos2d.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCConfiguration.h
+c000000004D1B7AB80000000000000D36
+t1293646520
+s3382
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCDirector.h
+c000000004D1B7AB800000000000025C4
+t1293646520
+s9668
+i"ccConfig.h"
+i"ccTypes.h"
+i"Platforms/CCGL.h"
+i"CCProtocols.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCDrawingPrimitives.h
+c000000004D1B7AB80000000000000C32
+t1293646520
+s3122
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCGrabber.h
+c000000004D1B7AB800000000000005E4
+t1293646520
+s1508
+i"Platforms/CCGL.h"
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCGrid.h
+c000000004D1B7AB80000000000000E5A
+t1293646520
+s3674
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCCamera.h"
+i"ccTypes.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCLabelAtlas.h
+c000000004D1B7AB80000000000000B24
+t1293646520
+s2852
+i"CCAtlasNode.h"
+i"CCTextureAtlas.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCLabelBMFont.h
+c000000004D1B7AB80000000000001641
+t1293646520
+s5697
+i"CCSpriteBatchNode.h"
+i"Support/uthash.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCLabelTTF.h
+c000000004D1B7AB80000000000000A87
+t1293646520
+s2695
+i"CCTexture2D.h"
+i"CCSprite.h"
+i"Platforms/CCNS.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCLayer.h
+c000000004D1B7AB800000000000020E9
+t1293646520
+s8425
+i<Availability.h>
+i<UIKit/UIKit.h>
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/Mac/CCEventDispatcher.h"
+i"CCProtocols.h"
+i"CCNode.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCMenu.h
+c000000004D1B7AB80000000000000B29
+t1293646520
+s2857
+i"CCMenuItem.h"
+i"CCLayer.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCMenuItem.h
+c000000004D1B7AB800000000000033A8
+t1293646520
+s13224
+i"CCBlockSupport.h"
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCMotionStreak.h
+c000000004D1B7AB80000000000000B2A
+t1293646520
+s2858
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCRibbon.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCNode.h
+c000000004D1B7AB80000000000004485
+t1293646520
+s17541
+i<Availability.h>
+i"Platforms/CCGL.h"
+i"CCAction.h"
+i"ccTypes.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"ccConfig.h"
+i"Support/CCArray.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCParallaxNode.h
+c000000004D1B7AB8000000000000075D
+t1293646520
+s1885
+i"CCNode.h"
+i"Support/ccCArray.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCParticleExamples.h
+c000000004D1B7AB80000000000000AD0
+t1293646520
+s2768
+i<Availability.h>
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCParticleSystem.h
+c000000004D1B7AB800000000000037B8
+t1293646520
+s14264
+i"CCProtocols.h"
+i"CCNode.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCParticleSystemPoint.h
+c000000004D1B7AB80000000000000846
+t1293646520
+s2118
+i<Availability.h>
+i"CCParticleSystem.h"
+i"CCParticleSystemQuad.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCParticleSystemQuad.h
+c000000004D1B7AB800000000000009F8
+t1293646520
+s2552
+i"CCParticleSystem.h"
+i"ccConfig.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCProgressTimer.h
+c000000004D1B7AB80000000000000B48
+t1293646520
+s2888
+i<Foundation/Foundation.h>
+i"CCSprite.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCProtocols.h
+c000000004D1B7AB80000000000000F9A
+t1293646520
+s3994
+i"ccTypes.h"
+i"CCTexture2D.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCRenderTexture.h
+c000000004D1B7AB80000000000000F2A
+t1293646520
+s3882
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCSprite.h"
+i"Support/OpenGL_Internal.h"
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCRibbon.h
+c000000004D1B7AB80000000000000FCD
+t1293646520
+s4045
+i"CCNode.h"
+i"CCTexture2D.h"
+i"CCProtocols.h"
+i"Platforms/CCGL.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCScene.h
+c000000004D1B7AB80000000000000676
+t1293646520
+s1654
+i"CCNode.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCScheduler.h
+c000000004D1B7AB800000000000019D7
+t1293646520
+s6615
+i"Support/uthash.h"
+i"ccTypes.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCSprite.h
+c000000004D1B7AB8000000000000345C
+t1293646520
+s13404
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCSpriteBatchNode.h
+c000000004D1B7AB800000000000018F8
+t1293646520
+s6392
+i"CCNode.h"
+i"CCProtocols.h"
+i"CCTextureAtlas.h"
+i"ccMacros.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCSpriteFrame.h
+c000000004D1B7AB80000000000000D5A
+t1293646520
+s3418
+i<Foundation/Foundation.h>
+i"CCNode.h"
+i"CCProtocols.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCSpriteFrameCache.h
+c000000004D1B7AB80000000000001394
+t1293646520
+s5012
+i<Foundation/Foundation.h>
+i"CCSpriteFrame.h"
+i"CCTexture2D.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCSpriteSheet.h
+c000000004D1B7AB800000000000009FE
+t1293646520
+s2558
+i"CCSpriteBatchNode.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTMXLayer.h
+c000000004D1B7AB8000000000000182A
+t1293646520
+s6186
+i"CCAtlasNode.h"
+i"CCSpriteBatchNode.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTMXObjectGroup.h
+c000000004D1B7AB800000000000008D5
+t1293646520
+s2261
+i"CCSpriteSheet.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTMXTiledMap.h
+c000000004D1B7AB800000000000014D4
+t1293646520
+s5332
+i"CCSpriteSheet.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTMXXMLParser.h
+c000000004D1B7AB800000000000016B9
+t1293646520
+s5817
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTexture2D.h
+c000000004D1B7AB80000000000002C9A
+t1293646520
+s11418
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTextureAtlas.h
+c000000004D1B7AB8000000000000145B
+t1293646520
+s5211
+i"CCTexture2D.h"
+i"ccTypes.h"
+i"ccConfig.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTextureCache.h
+c000000004D1B7AB800000000000014C2
+t1293646520
+s5314
+i<Availability.h>
+i<CoreGraphics/CGImage.h>
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTexturePVR.h
+c000000004D1B7AB80000000000000FB9
+t1293646520
+s4025
+i<Foundation/Foundation.h>
+i"Platforms/CCGL.h"
+i"CCTextureCache.h"
+i"CCTexture2D.h"
+i"ccCArray.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTileMapAtlas.h
+c000000004D1B7AB80000000000000B86
+t1293646520
+s2950
+i"CCTextureAtlas.h"
+i"CCAtlasNode.h"
+i"Support/TGAlib.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTransition.h
+c000000004D1B7AB80000000000002134
+t1293646520
+s8500
+i"CCScene.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTransitionPageTurn.h
+c000000004D1B7AB80000000000000917
+t1293646520
+s2327
+i"CCTransition.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/CCTransitionRadial.h
+c000000004D1B7AB80000000000000630
+t1293646520
+s1584
+i"CCTransition.h"
+i"CCProgressTimer.h"
+i"CCActionProgressTimer.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/CCGL.h
+c000000004D1B7AB80000000000000BF8
+t1293646520
+s3064
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i<OpenGLES/EAGL.h>
+i"iOS/glu.h"
+i"iOS/EAGLView.h"
+i<OpenGL/gl.h>
+i<OpenGL/glu.h>
+i<Cocoa/Cocoa.h>
+i"Mac/MacGLView.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/CCNS.h
+c000000004D1B7AB80000000000000965
+t1293646520
+s2405
+i<Availability.h>
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/Mac/CCDirectorMac.h
+c000000004D1B7AB80000000000000C84
+t1293646520
+s3204
+i<Availability.h>
+i<QuartzCore/CVDisplayLink.h>
+i"../../CCDirector.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/Mac/CCEventDispatcher.h
+c000000004D1B7AB80000000000001AA7
+t1293646520
+s6823
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"MacGLView.h"
+i"../../Support/uthash.h"
+i"../../Support/utlist.h"
+i"../../ccConfig.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/Mac/MacGLView.h
+c000000004D1B7AB80000000000000B8C
+t1293646520
+s2956
+i<Availability.h>
+i<Cocoa/Cocoa.h>
+i"../../ccConfig.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/iOS/CCDirectorIOS.h
+c000000004D1B7AB80000000000002B53
+t1293646520
+s11091
+i<Availability.h>
+i"../../CCDirector.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/iOS/CCTouchDelegateProtocol.h
+c000000004D1B7AB80000000000000BC3
+t1293646520
+s3011
+i<Availability.h>
+i<UIKit/UIKit.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/iOS/CCTouchDispatcher.h
+c000000004D1B7AB800000000000010CA
+t1293646520
+s4298
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"EAGLView.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/iOS/CCTouchHandler.h
+c000000004D1B7AB80000000000000D99
+t1293646520
+s3481
+i<Availability.h>
+i"CCTouchDelegateProtocol.h"
+i"CCTouchDispatcher.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/iOS/EAGLView.h
+c000000004D1B7AB80000000000001B69
+t1293646520
+s7017
+i<Availability.h>
+i<UIKit/UIKit.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+i<OpenGLES/ES1/gl.h>
+i<OpenGLES/ES1/glext.h>
+i"ESRenderer.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/iOS/ESRenderer.h
+c000000004D1B7AB8000000000000083A
+t1293646520
+s2106
+i<Availability.h>
+i<QuartzCore/QuartzCore.h>
+i<OpenGLES/EAGL.h>
+i<OpenGLES/EAGLDrawable.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Platforms/iOS/glu.h
+c000000004D1B7AB8000000000000030D
+t1293646520
+s781
+i<Availability.h>
+i<OpenGLES/ES1/gl.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/CCArray.h
+c000000004D1B7AB80000000000000BED
+t1293646520
+s3053
+i"ccCArray.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/CCFileUtils.h
+c000000004D1B7AB800000000000007E8
+t1293646520
+s2024
+i<Foundation/Foundation.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/CCProfiling.h
+c000000004D1B7AB800000000000006E9
+t1293646520
+s1769
+i<Foundation/Foundation.h>
+i<sys/time.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/CGPointExtension.h
+c000000004D1B7AB80000000000001EAB
+t1293646520
+s7851
+i<Availability.h>
+i<CoreGraphics/CGGeometry.h>
+i<Foundation/Foundation.h>
+i<math.h>
+i<objc/objc.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/OpenGL_Internal.h
+c000000004D1B7AB800000000000011A7
+t1293646520
+s4519
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/TGAlib.h
+c000000004D1B7AB80000000000000444
+t1293646520
+s1092
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/ccCArray.h
+c000000004D1B7AB800000000000030F3
+t1293646520
+s12531
+i<Foundation/Foundation.h>
+i<stdlib.h>
+i<string.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/ccUtils.h
+c000000004D1B7AB80000000000000204
+t1293646520
+s516
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/uthash.h
+c000000004D1B7AB8000000000000FB13
+t1293646520
+s64275
+i<string.h>
+i<stddef.h>
+i<inttypes.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/Support/utlist.h
+c000000004D1B7AB80000000000009091
+t1293646520
+s37009
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/ccConfig.h
+c000000004D1B7AB80000000000002896
+t1293646520
+s10390
+i<Availability.h>
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/ccMacros.h
+c000000004D1B7AB80000000000001DFE
+t1293646520
+s7678
+i<math.h>
+i"ccConfig.h"
+i<Foundation/Foundation.h>
+i<Availability.h>
+i"Platforms/iOS/CCDirectorIOS.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/ccTypes.h
+c000000004D1B7AB800000000000016D2
+t1293646520
+s5842
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<CoreGraphics/CGGeometry.h>
+i"Platforms/CCGL.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/libs/cocos2d/cocos2d.h
+c000000004D1B7AB800000000000010FF
+t1293646520
+s4351
+i<Availability.h>
+i"ccConfig.h"
+i"CCActionManager.h"
+i"CCAction.h"
+i"CCActionInstant.h"
+i"CCActionInterval.h"
+i"CCActionEase.h"
+i"CCActionCamera.h"
+i"CCActionTween.h"
+i"CCActionEase.h"
+i"CCActionTiledGrid.h"
+i"CCActionGrid3D.h"
+i"CCActionGrid.h"
+i"CCActionProgressTimer.h"
+i"CCActionPageTurn3D.h"
+i"CCAnimation.h"
+i"CCAnimationCache.h"
+i"CCSprite.h"
+i"CCSpriteFrame.h"
+i"CCSpriteSheet.h"
+i"CCSpriteBatchNode.h"
+i"CCSpriteFrameCache.h"
+i"CCLabelTTF.h"
+i"CCLabelBMFont.h"
+i"CCLabelAtlas.h"
+i"CCParticleSystem.h"
+i"CCParticleSystemPoint.h"
+i"CCParticleSystemQuad.h"
+i"CCParticleExamples.h"
+i"CCTexture2D.h"
+i"CCTexturePVR.h"
+i"CCTextureCache.h"
+i"CCTextureAtlas.h"
+i"CCTransition.h"
+i"CCTransitionPageTurn.h"
+i"CCTransitionRadial.h"
+i"CCTMXTiledMap.h"
+i"CCTMXLayer.h"
+i"CCTMXObjectGroup.h"
+i"CCTMXXMLParser.h"
+i"CCTileMapAtlas.h"
+i"CCLayer.h"
+i"CCMenu.h"
+i"CCMenuItem.h"
+i"CCDrawingPrimitives.h"
+i"CCScene.h"
+i"CCScheduler.h"
+i"CCBlockSupport.h"
+i"CCCamera.h"
+i"CCProtocols.h"
+i"CCNode.h"
+i"CCDirector.h"
+i"CCAtlasNode.h"
+i"CCGrabber.h"
+i"CCGrid.h"
+i"CCParallaxNode.h"
+i"CCRenderTexture.h"
+i"CCMotionStreak.h"
+i"CCConfiguration.h"
+i"ccTypes.h"
+i"ccMacros.h"
+i"Platforms/CCGL.h"
+i"Platforms/CCNS.h"
+i"Platforms/iOS/CCTouchDispatcher.h"
+i"Platforms/iOS/CCTouchDelegateProtocol.h"
+i"Platforms/iOS/CCTouchHandler.h"
+i"Platforms/iOS/EAGLView.h"
+i"Platforms/iOS/CCDirectorIOS.h"
+i"Platforms/Mac/MacGLView.h"
+i"Platforms/Mac/CCDirectorMac.h"
+i"Support/OpenGL_Internal.h"
+i"Support/CCFileUtils.h"
+i"Support/CGPointExtension.h"
+i"Support/ccCArray.h"
+i"Support/CCArray.h"
+i"Support/ccUtils.h"
+i"Support/CCProfiling.h"
+i"CCCompatibility.h"
+
+N/Volumes/Macintosh HD 2/Development/NumbersMatch_2/main.m
+c000000004D1B7AB80000000000000162
+t1293646520
+s354
+i<UIKit/UIKit.h>
+
+N/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch.gch
+t1322078874
+s12246448
+
+NResources/Info.plist
+c000000004E22A7F60000000000000461
+t1310894070
+s1121
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies343771673#343771673#0(0"0(0#1#0"8600508000#0"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/CardFlipAction.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.922961
+e343771676.135907
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/CardFlipAction.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@83"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.m343771675#343771676#0(0"0(0#0#75"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.m8614214144#2268"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/CardFlipAction.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/CardFlipAction.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/HelloWorldScene.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.103492
+e343771675.449986
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/HelloWorldScene.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@84"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.m343771675#343771675#0(0"0(0#0#76"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.m8609515584#2270"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/HelloWorldScene.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/HelloWorldScene.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/InfoScreen.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.947952
+e343771676.153608
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/InfoScreen.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.m343771675#343771676#0(0"0(0#0#71"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.m8612295904#2260"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/InfoScreen.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/InfoScreen.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchKanaAppDelegate.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.043504
+e343771675.373940
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchKanaAppDelegate.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@89"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.m343771675#343771675#0(0"0(0#0#81"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.m8611127872#2280"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchKanaAppDelegate.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchKanaAppDelegate.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchManager.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.450129
+e343771675.833292
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchManager.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@81"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.m343771675#343771675#0(0"0(0#0#73"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.m8606781760#2264"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/MatchManager.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/MatchManager.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/NSMutableArray+Shuffle.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.833455
+e343771675.947796
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/NSMutableArray+Shuffle.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@91"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.m343771675#343771675#0(0"0(0#0#83"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.m8609477664#2284"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/NSMutableArray+Shuffle.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/NSMutableArray+Shuffle.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/RootViewController.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.374071
+e343771675.657352
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/RootViewController.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@87"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.m343771675#343771675#0(0"0(0#0#79"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.m8607384544#2276"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/RootViewController.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/RootViewController.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/TileSprite.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.657527
+e343771675.922803
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/TileSprite.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@79"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.m343771675#343771675#0(0"0(0#0#71"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.m8600917984#2260"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Classes/TileSprite.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/TileSprite.o"0#
+
+CCompileC "build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/main.o" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/main.m" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771675.042283
+e343771675.103291
+r1
+xCompileC
+xbuild/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/main.o
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@65"Compile /Volumes/Macintosh HD 2/Development/NumbersMatch_2/main.m343771675#343771675#0(0"0(0#0#57"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/main.m8612006592#2240"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -include "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/main.m" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/main.o"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-arabic-hd.png" Resources/arabic/HiRes/1-arabic-hd.png
+s343771673.596772
+e343771673.619895
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1-arabic-hd.png
+xResources/arabic/HiRes/1-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/1-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/1-arabic-hd.png8604561472#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/1-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-arabic.png" Resources/arabic/LowRes/1-arabic.png
+s343771673.642020
+e343771673.677145
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1-arabic.png
+xResources/arabic/LowRes/1-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/1-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/1-arabic.png8612968640#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/1-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-roman-hd.png" Resources/roman/HiRes/1-roman-hd.png
+s343771673.699576
+e343771673.911047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1-roman-hd.png
+xResources/roman/HiRes/1-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/1-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/1-roman-hd.png8604396960#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/1-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1-roman.png" Resources/roman/LowRes/1-roman.png
+s343771673.767811
+e343771673.808781
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1-roman.png
+xResources/roman/LowRes/1-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/1-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/1-roman.png8600282848#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/1-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-arabic-hd.png" Resources/arabic/HiRes/10-arabic-hd.png
+s343771673.597521
+e343771673.622855
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/10-arabic-hd.png
+xResources/arabic/HiRes/10-arabic-hd.png
+lSLF07#2@44"Copy Resources/arabic/HiRes/10-arabic-hd.png343771673#343771673#0(0"0(0#0#90"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/10-arabic-hd.png8604530880#545"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/10-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-arabic.png" Resources/arabic/LowRes/10-arabic.png
+s343771673.644237
+e343771673.682471
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/10-arabic.png
+xResources/arabic/LowRes/10-arabic.png
+lSLF07#2@42"Copy Resources/arabic/LowRes/10-arabic.png343771673#343771673#0(0"0(0#0#88"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/10-arabic.png8612813856#543"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/10-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-roman-hd.png" Resources/roman/HiRes/10-roman-hd.png
+s343771673.702966
+e343771673.735419
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/10-roman-hd.png
+xResources/roman/HiRes/10-roman-hd.png
+lSLF07#2@42"Copy Resources/roman/HiRes/10-roman-hd.png343771673#343771673#0(0"0(0#0#88"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/10-roman-hd.png8600328448#543"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/10-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/10-roman.png" Resources/roman/LowRes/10-roman.png
+s343771673.777289
+e343771673.847121
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/10-roman.png
+xResources/roman/LowRes/10-roman.png
+lSLF07#2@40"Copy Resources/roman/LowRes/10-roman.png343771673#343771673#0(0"0(0#0#86"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/10-roman.png27303270316245092#541"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/10-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-arabic-hd.png" Resources/arabic/HiRes/100-arabic-hd.png
+s343771673.598212
+e343771673.628853
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/100-arabic-hd.png
+xResources/arabic/HiRes/100-arabic-hd.png
+lSLF07#2@45"Copy Resources/arabic/HiRes/100-arabic-hd.png343771673#343771673#0(0"0(0#0#91"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/100-arabic-hd.png8604409152#546"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/100-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-arabic.png" Resources/arabic/LowRes/100-arabic.png
+s343771673.646621
+e343771673.694427
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/100-arabic.png
+xResources/arabic/LowRes/100-arabic.png
+lSLF07#2@43"Copy Resources/arabic/LowRes/100-arabic.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/100-arabic.png8612620544#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/100-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-roman-hd.png" Resources/roman/HiRes/100-roman-hd.png
+s343771673.712462
+e343771673.767661
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/100-roman-hd.png
+xResources/roman/HiRes/100-roman-hd.png
+lSLF07#2@43"Copy Resources/roman/HiRes/100-roman-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/100-roman-hd.png8612398656#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/100-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/100-roman.png" Resources/roman/LowRes/100-roman.png
+s343771673.784134
+e343771673.869844
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/100-roman.png
+xResources/roman/LowRes/100-roman.png
+lSLF07#2@41"Copy Resources/roman/LowRes/100-roman.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/100-roman.png8601315872#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/100-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-arabic-hd.png" Resources/arabic/HiRes/1000-arabic-hd.png
+s343771673.598906
+e343771673.630907
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1000-arabic-hd.png
+xResources/arabic/HiRes/1000-arabic-hd.png
+lSLF07#2@46"Copy Resources/arabic/HiRes/1000-arabic-hd.png343771673#343771673#0(0"0(0#0#92"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/1000-arabic-hd.png8604287072#547"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/1000-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-arabic.png" Resources/arabic/LowRes/1000-arabic.png
+s343771673.650091
+e343771673.688280
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1000-arabic.png
+xResources/arabic/LowRes/1000-arabic.png
+lSLF07#2@44"Copy Resources/arabic/LowRes/1000-arabic.png343771673#343771673#0(0"0(0#0#90"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/1000-arabic.png8612460320#545"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/1000-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-roman-hd.png" Resources/roman/HiRes/1000-roman-hd.png
+s343771673.717324
+e343771673.761911
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1000-roman-hd.png
+xResources/roman/HiRes/1000-roman-hd.png
+lSLF07#2@44"Copy Resources/roman/HiRes/1000-roman-hd.png343771673#343771673#0(0"0(0#0#90"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/1000-roman-hd.png8604389344#545"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/1000-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/1000-roman.png" Resources/roman/LowRes/1000-roman.png
+s343771673.787281
+e343771673.873233
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/1000-roman.png
+xResources/roman/LowRes/1000-roman.png
+lSLF07#2@42"Copy Resources/roman/LowRes/1000-roman.png343771673#343771673#0(0"0(0#0#88"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/1000-roman.png8604168000#543"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/1000-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-arabic-hd.png" Resources/arabic/HiRes/2-arabic-hd.png
+s343771673.613912
+e343771673.644158
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/2-arabic-hd.png
+xResources/arabic/HiRes/2-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/2-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/2-arabic-hd.png8619412768#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/2-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-arabic.png" Resources/arabic/LowRes/2-arabic.png
+s343771673.653022
+e343771673.691453
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/2-arabic.png
+xResources/arabic/LowRes/2-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/2-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/2-arabic.png8612180576#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/2-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-roman-hd.png" Resources/roman/HiRes/2-roman-hd.png
+s343771673.720158
+e343771673.748243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/2-roman-hd.png
+xResources/roman/HiRes/2-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/2-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/2-roman-hd.png8608916960#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/2-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/2-roman.png" Resources/roman/LowRes/2-roman.png
+s343771673.808876
+e343771673.843317
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/2-roman.png
+xResources/roman/LowRes/2-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/2-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/2-roman.png8616055488#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/2-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-arabic-hd.png" Resources/arabic/HiRes/3-arabic-hd.png
+s343771673.617793
+e343771673.638616
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/3-arabic-hd.png
+xResources/arabic/HiRes/3-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/3-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/3-arabic-hd.png8618794880#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/3-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-arabic.png" Resources/arabic/LowRes/3-arabic.png
+s343771673.656628
+e343771673.712353
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/3-arabic.png
+xResources/arabic/LowRes/3-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/3-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/3-arabic.png8612099968#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/3-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-roman-hd.png" Resources/roman/HiRes/3-roman-hd.png
+s343771673.724282
+e343771673.910787
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/3-roman-hd.png
+xResources/roman/HiRes/3-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/3-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/3-roman-hd.png8604486208#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/3-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/3-roman.png" Resources/roman/LowRes/3-roman.png
+s343771673.822789
+e343771673.849447
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/3-roman.png
+xResources/roman/LowRes/3-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/3-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/3-roman.png8600912320#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/3-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-arabic-hd.png" Resources/arabic/HiRes/4-arabic-hd.png
+s343771673.619982
+e343771673.641930
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/4-arabic-hd.png
+xResources/arabic/HiRes/4-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/4-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/4-arabic-hd.png8618011904#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/4-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-arabic.png" Resources/arabic/LowRes/4-arabic.png
+s343771673.664388
+e343771673.739010
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/4-arabic.png
+xResources/arabic/LowRes/4-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/4-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/4-arabic.png8611808480#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/4-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-roman-hd.png" Resources/roman/HiRes/4-roman-hd.png
+s343771673.726135
+e343771673.747993
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/4-roman-hd.png
+xResources/roman/HiRes/4-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/4-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/4-roman-hd.png8601452544#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/4-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/4-roman.png" Resources/roman/LowRes/4-roman.png
+s343771673.825325
+e343771673.854214
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/4-roman.png
+xResources/roman/LowRes/4-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/4-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/4-roman.png8611493056#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/4-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-arabic-hd.png" Resources/arabic/HiRes/5-arabic-hd.png
+s343771673.622952
+e343771673.652889
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/5-arabic-hd.png
+xResources/arabic/HiRes/5-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/5-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/5-arabic-hd.png8615867584#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/5-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-arabic.png" Resources/arabic/LowRes/5-arabic.png
+s343771673.669764
+e343771673.702879
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/5-arabic.png
+xResources/arabic/LowRes/5-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/5-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/5-arabic.png8611603488#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/5-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-roman-hd.png" Resources/roman/HiRes/5-roman-hd.png
+s343771673.730489
+e343771673.910042
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/5-roman-hd.png
+xResources/roman/HiRes/5-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/5-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/5-roman-hd.png8614471648#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/5-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/5-roman.png" Resources/roman/LowRes/5-roman.png
+s343771673.835479
+e343771673.862642
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/5-roman.png
+xResources/roman/LowRes/5-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/5-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/5-roman.png8607745856#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/5-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-arabic-hd.png" Resources/arabic/HiRes/50-arabic-hd.png
+s343771673.626216
+e343771673.646538
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/50-arabic-hd.png
+xResources/arabic/HiRes/50-arabic-hd.png
+lSLF07#2@44"Copy Resources/arabic/HiRes/50-arabic-hd.png343771673#343771673#0(0"0(0#0#90"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/50-arabic-hd.png8615626080#545"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/50-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-arabic.png" Resources/arabic/LowRes/50-arabic.png
+s343771673.674460
+e343771673.724056
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/50-arabic.png
+xResources/arabic/LowRes/50-arabic.png
+lSLF07#2@42"Copy Resources/arabic/LowRes/50-arabic.png343771673#343771673#0(0"0(0#0#88"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/50-arabic.png8611502304#543"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/50-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-roman-hd.png" Resources/roman/HiRes/50-roman-hd.png
+s343771673.735717
+e343771673.753332
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/50-roman-hd.png
+xResources/roman/HiRes/50-roman-hd.png
+lSLF07#2@42"Copy Resources/roman/HiRes/50-roman-hd.png343771673#343771673#0(0"0(0#0#88"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/50-roman-hd.png8607447552#543"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/50-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/50-roman.png" Resources/roman/LowRes/50-roman.png
+s343771673.843408
+e343771673.911164
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/50-roman.png
+xResources/roman/LowRes/50-roman.png
+lSLF07#2@40"Copy Resources/roman/LowRes/50-roman.png343771673#343771673#0(0"0(0#0#86"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/50-roman.png8607033568#541"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/50-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-arabic-hd.png" Resources/arabic/HiRes/500-arabic-hd.png
+s343771673.628938
+e343771673.649946
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/500-arabic-hd.png
+xResources/arabic/HiRes/500-arabic-hd.png
+lSLF07#2@45"Copy Resources/arabic/HiRes/500-arabic-hd.png343771673#343771673#0(0"0(0#0#91"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/500-arabic-hd.png8615147488#546"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/500-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-arabic.png" Resources/arabic/LowRes/500-arabic.png
+s343771673.677229
+e343771673.699485
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/500-arabic.png
+xResources/arabic/LowRes/500-arabic.png
+lSLF07#2@43"Copy Resources/arabic/LowRes/500-arabic.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/500-arabic.png8609762528#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/500-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-roman-hd.png" Resources/roman/HiRes/500-roman-hd.png
+s343771673.739143
+e343771673.777196
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/500-roman-hd.png
+xResources/roman/HiRes/500-roman-hd.png
+lSLF07#2@43"Copy Resources/roman/HiRes/500-roman-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/500-roman-hd.png8603313568#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/500-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/500-roman.png" Resources/roman/LowRes/500-roman.png
+s343771673.847261
+e343771673.880100
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/500-roman.png
+xResources/roman/LowRes/500-roman.png
+lSLF07#2@41"Copy Resources/roman/LowRes/500-roman.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/500-roman.png8606532352#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/500-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-arabic-hd.png" Resources/arabic/HiRes/6-arabic-hd.png
+s343771673.630990
+e343771673.656540
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/6-arabic-hd.png
+xResources/arabic/HiRes/6-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/6-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/6-arabic-hd.png8614717952#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/6-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-arabic.png" Resources/arabic/LowRes/6-arabic.png
+s343771673.682717
+e343771673.717235
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/6-arabic.png
+xResources/arabic/LowRes/6-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/6-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/6-arabic.png8607230048#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/6-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-roman-hd.png" Resources/roman/HiRes/6-roman-hd.png
+s343771673.748380
+e343771673.784042
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/6-roman-hd.png
+xResources/roman/HiRes/6-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/6-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/6-roman-hd.png8615145568#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/6-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/6-roman.png" Resources/roman/LowRes/6-roman.png
+s343771673.849528
+e343771673.877305
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/6-roman.png
+xResources/roman/LowRes/6-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/6-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/6-roman.png8606393792#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/6-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-arabic-hd.png" Resources/arabic/HiRes/7-arabic-hd.png
+s343771673.633915
+e343771673.664293
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/7-arabic-hd.png
+xResources/arabic/HiRes/7-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/7-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/7-arabic-hd.png8614597952#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/7-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-arabic.png" Resources/arabic/LowRes/7-arabic.png
+s343771673.688438
+e343771673.720064
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/7-arabic.png
+xResources/arabic/LowRes/7-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/7-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/7-arabic.png8604055008#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/7-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-roman-hd.png" Resources/roman/HiRes/7-roman-hd.png
+s343771673.750829
+e343771673.787196
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/7-roman-hd.png
+xResources/roman/HiRes/7-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/7-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/7-roman-hd.png8612069984#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/7-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/7-roman.png" Resources/roman/LowRes/7-roman.png
+s343771673.854303
+e343771673.910924
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/7-roman.png
+xResources/roman/LowRes/7-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/7-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/7-roman.png8606151200#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/7-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-arabic-hd.png" Resources/arabic/HiRes/8-arabic-hd.png
+s343771673.636068
+e343771673.674370
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/8-arabic-hd.png
+xResources/arabic/HiRes/8-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/8-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/8-arabic-hd.png8614390944#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/8-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-arabic.png" Resources/arabic/LowRes/8-arabic.png
+s343771673.691626
+e343771673.724203
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/8-arabic.png
+xResources/arabic/LowRes/8-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/8-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/8-arabic.png8601437824#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/8-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-roman-hd.png" Resources/roman/HiRes/8-roman-hd.png
+s343771673.753417
+e343771673.835346
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/8-roman-hd.png
+xResources/roman/HiRes/8-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/8-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/8-roman-hd.png8607313248#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/8-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/8-roman.png" Resources/roman/LowRes/8-roman.png
+s343771673.862791
+e343771673.882378
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/8-roman.png
+xResources/roman/LowRes/8-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/8-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/8-roman.png8605890720#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/8-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-arabic-hd.png" Resources/arabic/HiRes/9-arabic-hd.png
+s343771673.638704
+e343771673.669667
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/9-arabic-hd.png
+xResources/arabic/HiRes/9-arabic-hd.png
+lSLF07#2@43"Copy Resources/arabic/HiRes/9-arabic-hd.png343771673#343771673#0(0"0(0#0#89"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/9-arabic-hd.png8614196640#544"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/HiRes/9-arabic-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-arabic.png" Resources/arabic/LowRes/9-arabic.png
+s343771673.694509
+e343771673.730397
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/9-arabic.png
+xResources/arabic/LowRes/9-arabic.png
+lSLF07#2@41"Copy Resources/arabic/LowRes/9-arabic.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/9-arabic.png8600362368#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/arabic/LowRes/9-arabic.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-roman-hd.png" Resources/roman/HiRes/9-roman-hd.png
+s343771673.762046
+e343771673.822707
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/9-roman-hd.png
+xResources/roman/HiRes/9-roman-hd.png
+lSLF07#2@41"Copy Resources/roman/HiRes/9-roman-hd.png343771673#343771673#0(0"0(0#0#87"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/9-roman-hd.png8604287520#542"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/HiRes/9-roman-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/9-roman.png" Resources/roman/LowRes/9-roman.png
+s343771673.869995
+e343771673.910283
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/9-roman.png
+xResources/roman/LowRes/9-roman.png
+lSLF07#2@39"Copy Resources/roman/LowRes/9-roman.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/9-roman.png8604577408#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/roman/LowRes/9-roman.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/Default.png" "Resources/app assets/Default.png"
+s343771673.593706
+e343771673.633667
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/Default.png
+xResources/app assets/Default.png
+lSLF07#2@37"Copy Resources/app assets/Default.png343771673#343771673#0(0"0(0#0#83"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Default.png8606118944#538"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Default.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/Default@2x.png" "Resources/app assets/Default@2x.png"
+s343771673.594515
+e343771673.822534
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/Default@2x.png
+xResources/app assets/Default@2x.png
+lSLF07#2@40"Copy Resources/app assets/Default@2x.png343771673#343771673#0(0"0(0#0#86"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Default@2x.png8605947008#541"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Default@2x.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/Icon.png" "Resources/app assets/Icon.png"
+s343771673.595306
+e343771673.633825
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/Icon.png
+xResources/app assets/Icon.png
+lSLF07#2@34"Copy Resources/app assets/Icon.png343771673#343771673#0(0"0(0#0#80"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Icon.png8605845120#535"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Icon.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/Icon@2x.png" "Resources/app assets/Icon@2x.png"
+s343771673.596031
+e343771673.613804
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/Icon@2x.png
+xResources/app assets/Icon@2x.png
+lSLF07#2@37"Copy Resources/app assets/Icon@2x.png343771673#343771673#0(0"0(0#0#83"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Icon@2x.png8604581120#538"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/app assets/Icon@2x.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/InfoScreen-hd.png" Resources/UI/InfoScreen-hd.png
+s343771673.932605
+e343771673.973673
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/InfoScreen-hd.png
+xResources/UI/InfoScreen-hd.png
+lSLF07#2@35"Copy Resources/UI/InfoScreen-hd.png343771673#343771673#0(0"0(0#0#81"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/InfoScreen-hd.png8607443904#536"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/InfoScreen-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/InfoScreen.png" Resources/UI/InfoScreen.png
+s343771673.938803
+e343771673.973879
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/InfoScreen.png
+xResources/UI/InfoScreen.png
+lSLF07#2@32"Copy Resources/UI/InfoScreen.png343771673#343771673#0(0"0(0#0#78"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/InfoScreen.png8607135136#533"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/InfoScreen.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/LICENSE" LICENSE
+s343771673.592933
+e343771673.626125
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/LICENSE
+xLICENSE
+lSLF07#2@12"Copy LICENSE343771673#343771673#0(0"0(0#0#58"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/LICENSE8606257024#513"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/LICENSE" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/background-hd.png" Resources/UI/background-hd.png
+s343771673.873370
+e343771673.974071
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/background-hd.png
+xResources/UI/background-hd.png
+lSLF07#2@35"Copy Resources/UI/background-hd.png343771673#343771673#0(0"0(0#0#81"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/background-hd.png8604543968#536"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/background-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/background.png" Resources/UI/background.png
+s343771673.877403
+e343771673.910571
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/background.png
+xResources/UI/background.png
+lSLF07#2@32"Copy Resources/UI/background.png343771673#343771673#0(0"0(0#0#78"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/background.png8604401632#533"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/background.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnInfo-hd.png" Resources/UI/btnInfo-hd.png
+s343771673.880234
+e343771673.911304
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/btnInfo-hd.png
+xResources/UI/btnInfo-hd.png
+lSLF07#2@32"Copy Resources/UI/btnInfo-hd.png343771673#343771673#0(0"0(0#0#78"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnInfo-hd.png8604229792#533"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnInfo-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnInfo.png" Resources/UI/btnInfo.png
+s343771673.882458
+e343771673.972788
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/btnInfo.png
+xResources/UI/btnInfo.png
+lSLF07#2@29"Copy Resources/UI/btnInfo.png343771673#343771673#0(0"0(0#0#75"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnInfo.png8604152160#530"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnInfo.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible-hd.png" Resources/UI/btnIsLabelVisible-hd.png
+s343771673.911418
+e343771673.972924
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible-hd.png
+xResources/UI/btnIsLabelVisible-hd.png
+lSLF07#2@42"Copy Resources/UI/btnIsLabelVisible-hd.png343771673#343771673#0(0"0(0#0#88"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisible-hd.png8612717280#543"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisible-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible.png" Resources/UI/btnIsLabelVisible.png
+s343771673.912818
+e343771673.973047
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisible.png
+xResources/UI/btnIsLabelVisible.png
+lSLF07#2@39"Copy Resources/UI/btnIsLabelVisible.png343771673#343771673#0(0"0(0#0#85"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisible.png8611697248#540"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisible.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected-hd.png" Resources/UI/btnIsLabelVisibleSelected-hd.png
+s343771673.922483
+e343771673.973251
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected-hd.png
+xResources/UI/btnIsLabelVisibleSelected-hd.png
+lSLF07#2@50"Copy Resources/UI/btnIsLabelVisibleSelected-hd.png343771673#343771673#0(0"0(0#0#96"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisibleSelected-hd.png8611067968#551"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisibleSelected-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected.png" Resources/UI/btnIsLabelVisibleSelected.png
+s343771673.930001
+e343771673.973464
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/btnIsLabelVisibleSelected.png
+xResources/UI/btnIsLabelVisibleSelected.png
+lSLF07#2@47"Copy Resources/UI/btnIsLabelVisibleSelected.png343771673#343771673#0(0"0(0#0#93"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisibleSelected.png8607734784#548"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/btnIsLabelVisibleSelected.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/fps_images.png" Resources/fps_images.png
+s343771673.592097
+e343771673.617701
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/fps_images.png
+xResources/fps_images.png
+lSLF07#2@29"Copy Resources/fps_images.png343771673#343771673#0(0"0(0#0#75"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/fps_images.png8606314464#530"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/fps_images.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/match.caf" Resources/match.caf
+s343771673.998217
+e343771674.049095
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/match.caf
+xResources/match.caf
+lSLF07#2@24"Copy Resources/match.caf343771673#343771674#0(0"0(0#0#70"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/match.caf8614564608#525"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/match.caf" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/menuBackImage-hd.png" Resources/UI/menuBackImage-hd.png
+s343771673.949754
+e343771673.974189
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/menuBackImage-hd.png
+xResources/UI/menuBackImage-hd.png
+lSLF07#2@38"Copy Resources/UI/menuBackImage-hd.png343771673#343771673#0(0"0(0#0#84"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/menuBackImage-hd.png8606431616#539"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/menuBackImage-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/menuBackImage.png" Resources/UI/menuBackImage.png
+s343771673.968116
+e343771674.009717
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/menuBackImage.png
+xResources/UI/menuBackImage.png
+lSLF07#2@35"Copy Resources/UI/menuBackImage.png343771673#343771674#0(0"0(0#0#81"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/menuBackImage.png8605823424#536"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/menuBackImage.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/newgame-hd.png" Resources/UI/newgame-hd.png
+s343771673.974266
+e343771674.008989
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/newgame-hd.png
+xResources/UI/newgame-hd.png
+lSLF07#2@32"Copy Resources/UI/newgame-hd.png343771673#343771674#0(0"0(0#0#78"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/newgame-hd.png8619286368#533"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/newgame-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/newgame.png" Resources/UI/newgame.png
+s343771673.977481
+e343771674.009121
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/newgame.png
+xResources/UI/newgame.png
+lSLF07#2@29"Copy Resources/UI/newgame.png343771673#343771674#0(0"0(0#0#75"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/newgame.png8618639904#530"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/newgame.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/tileBack-hd.png" Resources/UI/tileBack-hd.png
+s343771673.983826
+e343771674.009240
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/tileBack-hd.png
+xResources/UI/tileBack-hd.png
+lSLF07#2@33"Copy Resources/UI/tileBack-hd.png343771673#343771674#0(0"0(0#0#79"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/tileBack-hd.png8615976416#534"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/tileBack-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/tileBack.png" Resources/UI/tileBack.png
+s343771673.986906
+e343771674.009362
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/tileBack.png
+xResources/UI/tileBack.png
+lSLF07#2@30"Copy Resources/UI/tileBack.png343771673#343771674#0(0"0(0#0#76"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/tileBack.png8615355136#531"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/tileBack.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/win.caf" Resources/win.caf
+s343771674.002935
+e343771674.112673
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/win.caf
+xResources/win.caf
+lSLF07#2@22"Copy Resources/win.caf343771674#343771674#0(0"0(0#0#68"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/win.caf8614318784#523"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/win.caf" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/winText-hd.png" Resources/UI/winText-hd.png
+s343771673.991511
+e343771674.009484
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/winText-hd.png
+xResources/UI/winText-hd.png
+lSLF07#2@32"Copy Resources/UI/winText-hd.png343771673#343771674#0(0"0(0#0#78"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/winText-hd.png8614926816#533"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/winText-hd.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CCpResource "build/Debug-iphonesimulator/Numbers Match.app/winText.png" Resources/UI/winText.png
+s343771673.995858
+e343771674.009597
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/Numbers Match.app/winText.png
+xResources/UI/winText.png
+lSLF07#2@29"Copy Resources/UI/winText.png343771673#343771674#0(0"0(0#0#75"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/winText.png8614668288#530"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/UI/winText.png" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+
+CGenerateDSYMFile "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app.dSYM" "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match"
+s343771676.829498
+e343771677.089888
+r1
+xGenerateDSYMFile
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app.dSYM
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match
+lSLF07#2@131"GenerateDSYMFile "build/Debug-iphonesimulator/Numbers Match.app.dSYM" "build/Debug-iphonesimulator/Numbers Match.app/Numbers Match"343771676#343771677#0(0"0(0#0#110"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match8606958208#443"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match" -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app.dSYM"0#
+
+CLd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match" normal i386
+s343771676.153749
+e343771676.829293
+r1
+xLd
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match
+xnormal
+xi386
+lSLF07#2@115"Link /Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match343771676#343771676#0(0"0(0#0#0"8611022528#1320"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk "-L/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" -filelist "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Objects-normal/i386/Numbers Match.LinkFileList" -mmacosx-version-min=10.6 -all_load -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework CoreGraphics -framework Foundation -framework OpenGLES -framework QuartzCore -framework UIKit -framework AudioToolbox -framework OpenAL -lz -framework AVFoundation "-lcocos2d libraries" -framework AddressBook -framework CoreLocation -lsqlite3 -framework MapKit -framework iAd -framework SystemConfiguration -framework MessageUI -framework MediaPlayer -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Numbers Match"0#
+
+CProcessInfoPlistFile "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Info.plist" Resources/Info.plist
+s343771673.588084
+e343771673.591960
+r1
+xProcessInfoPlistFile
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Info.plist
+xResources/Info.plist
+lSLF07#2@28"Process Resources/Info.plist343771673#343771673#0(0"0(0#0#71"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Resources/Info.plist8606953280#535"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Resources/Info.plist -genpkginfo "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app/Info.plist"0#
+
+CProcessPCH "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch.gch" "Numbers Match_Prefix.pch" normal i386 objective-c com.apple.compilers.llvmgcc42
+s343771674.112902
+e343771675.042160
+r1
+xProcessPCH
+x/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch.gch
+xNumbers Match_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@35"Precompile Numbers Match_Prefix.pch343771674#343771675#0(0"0(0#0#75"/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Numbers Match_Prefix.pch8612812768#2112"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DDEBUG -DCOCOS2D_DEBUG=1 -DCD_DEBUG=1 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.3.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40000 -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-generated-files.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-own-target-headers.hmap" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-all-target-headers.hmap" -iquote "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/Numbers Match-project-headers.hmap" -Wall "-F/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/include" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources/i386" "-I/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Numbers Match.build/Debug-iphonesimulator/Numbers Match.build/DerivedSources" -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/Numbers Match_Prefix.pch" -o "/var/folders/T7/T7JvBKWYFIeN5gplziFuNU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Numbers Match_Prefix-crxepxcpinzzardjmrctmzcayffn/Numbers Match_Prefix.pch.gch"0#
+
+CTouch "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"
+s343771677.089983
+e343771677.097493
+r1
+xTouch
+x/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app
+lSLF07#2@102"Touch /Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app343771677#343771677#0(0"0(0#0#0"8605716832#312"    cd "/Volumes/Macintosh HD 2/Development/NumbersMatch_2"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Volumes/Macintosh HD 2/Development/NumbersMatch_2/build/Debug-iphonesimulator/Numbers Match.app"0#
+

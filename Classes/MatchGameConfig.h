@@ -8,8 +8,8 @@
 
 #import <Foundation/Foundation.h>
 
-#define kSet1Name @"arabic"
-#define kSet2Name @"roman"
+#define kSet1Name @"button_yellow"
+#define kSet2Name @"button_blue"
 
 #define kTileSetWidth 4
 #define kTileSetHeight 4

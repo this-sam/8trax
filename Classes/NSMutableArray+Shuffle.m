@@ -32,10 +32,10 @@ static NSUInteger random_below(NSUInteger n) {
 - (void)shuffle {
     // http://en.wikipedia.org/wiki/Knuth_shuffle
 	
-    for(NSUInteger i = [self count]; i > 1; i--) {
+    /*for(NSUInteger i = [self count]; i > 1; i--) {
         NSUInteger j = random_below(i);
         [self exchangeObjectAtIndex:i-1 withObjectAtIndex:j];
-    }
+    }*/
 }
 
 

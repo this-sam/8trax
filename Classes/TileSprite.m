@@ -45,9 +45,9 @@
 {
 	tileTag = tag;
 	
-	self.label = [CCLabelTTF labelWithString:tileTag fontName:@"Marker Felt" fontSize:14];
+	self.label = [CCLabelTTF labelWithString:tileTag fontName:@"Courier New" fontSize:14];
 	self.label.color = ccc3(128,0,0);
-	self.label.position = ccp( kTileWidth/2, 10 );
+	self.label.position = ccp( kTileWidth/2, 20 );
 	self.label.visible = self.isLabelVisible;
 	
 	[self addChild: self.label];
@@ -61,7 +61,7 @@
 
 - (void) flip: (BOOL) showFace
 {
-	float d = 0.25f;
+	float d = 0;
 	
 	id firstAction = [CCOrbitCamera actionWithDuration:d/2 radius:1 deltaRadius:0 angleZ:0 deltaAngleZ:90 angleX:0 deltaAngleX:0];
 	id secondAction = [CCOrbitCamera actionWithDuration:d/2 radius:1 deltaRadius:0 angleZ:270 deltaAngleZ:90 angleX:0 deltaAngleX:0];

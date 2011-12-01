@@ -109,10 +109,10 @@
 		}
 	}
 	
-	//randomize the sprites
+	/*/randomize the sprites
 	srand(time(NULL));
 	[result shuffle];
-	[result shuffle];
+	[result shuffle];*/
 
 	self.tileSet = [CCMenu menuWithItems:nil];
 	
@@ -134,14 +134,14 @@
 {
 	if (dispatchTouches==NO) return;
 	
-	if ([self.openTiles count]>1) {
+	/*if ([self.openTiles count]>1) {
 		//don't allow more than 2 to be open at the same time
 		return;
-	}
+	}*/
 	
 	//if the tile swallows the touch stop dispatching touches
 	if ([(TileSprite*)sender tapped]) {
-		dispatchTouches = NO;
+		//dispatchTouches = NO;
 	}
 }
 
@@ -149,7 +149,7 @@
 {
 	[self.openTiles addObject: tile];
 	
-	if ([self.openTiles count]>1) {
+	/*if ([self.openTiles count]>1) {
 		TileSprite* tile1 = [self.openTiles objectAtIndex:0];
 		
 		//check if the open tiles match
@@ -164,7 +164,7 @@
 			[tile1 performSelector:@selector(flip:) withObject:nil afterDelay:1];
 			[self performSelector:@selector(didTilesClose) withObject:nil afterDelay:1.1];
 		}
-	}
+	}*/
 	
 	dispatchTouches = YES;
 }
