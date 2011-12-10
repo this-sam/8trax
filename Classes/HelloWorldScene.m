@@ -57,7 +57,7 @@
 		[self addChild: bg ];
 		
 		// initialize the manager
-		self.manager = [[[MatchManager alloc] init] autorelease];
+		self.manager = [[[TrackManager alloc] init] autorelease];
 
 		//create the screen elements
 		[self createTileSet];

@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
-		1F3B9A2D0EF2145700286867 /* MatchKanaAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3B9A2B0EF2145700286867 /* MatchKanaAppDelegate.m */; };
+		1F3B9A2D0EF2145700286867 /* TraxAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1F3B9A2B0EF2145700286867 /* TraxAppDelegate.m */; };
 		22DA6A2414860CD800A34F8F /* 01-button_blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 22DA6A1614860CD800A34F8F /* 01-button_blue.png */; };
 		22DA6A2514860CD800A34F8F /* 02-button_blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 22DA6A1714860CD800A34F8F /* 02-button_blue.png */; };
 		22DA6A2614860CD800A34F8F /* 03-button_blue.png in Resources */ = {isa = PBXBuildFile; fileRef = 22DA6A1814860CD800A34F8F /* 03-button_blue.png */; };
@@ -103,7 +103,7 @@
 		9C09F88D12CDEF7E0032D581 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C09F88C12CDEF7E0032D581 /* SystemConfiguration.framework */; };
 		9C09F8DA12CDF7280032D581 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C09F8D912CDF7280032D581 /* MessageUI.framework */; };
 		9C09F8DC12CDF7380032D581 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9C09F8DB12CDF7380032D581 /* MediaPlayer.framework */; };
-		9C40FA7512CBB8ED002DC504 /* MatchManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C40FA7412CBB8ED002DC504 /* MatchManager.m */; };
+		9C40FA7512CBB8ED002DC504 /* TrackManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C40FA7412CBB8ED002DC504 /* TrackManager.m */; };
 		9C40FE4412CBD41D002DC504 /* TileSprite.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C40FE4312CBD41D002DC504 /* TileSprite.m */; };
 		9C40FE7512CBD8C4002DC504 /* NSMutableArray+Shuffle.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C40FE7412CBD8C4002DC504 /* NSMutableArray+Shuffle.m */; };
 		9C40FF3C12CBE3C9002DC504 /* CardFlipAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 9C40FF3B12CBE3C9002DC504 /* CardFlipAction.m */; };
@@ -321,9 +321,9 @@
 
 /* Begin PBXFileReference section */
 		1D6058910D05DD3D006BFB54 /* 8trax.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 8trax.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		1F3B9A2B0EF2145700286867 /* MatchKanaAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MatchKanaAppDelegate.m; path = Classes/MatchKanaAppDelegate.m; sourceTree = SOURCE_ROOT; };
-		1F3B9A2C0EF2145700286867 /* MatchKanaAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MatchKanaAppDelegate.h; path = Classes/MatchKanaAppDelegate.h; sourceTree = SOURCE_ROOT; };
-		1F3B9A820EF2151B00286867 /* 8trax_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; path = 8trax_Prefix.pch; sourceTree = "<group>"; };
+		1F3B9A2B0EF2145700286867 /* TraxAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TraxAppDelegate.m; path = Classes/TraxAppDelegate.m; sourceTree = SOURCE_ROOT; };
+		1F3B9A2C0EF2145700286867 /* TraxAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TraxAppDelegate.h; path = Classes/TraxAppDelegate.h; sourceTree = SOURCE_ROOT; };
+		1F3B9A820EF2151B00286867 /* 8trax_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 8trax_Prefix.pch; sourceTree = "<group>"; };
 		22DA6A1614860CD800A34F8F /* 01-button_blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "01-button_blue.png"; path = "LowRes/01-button_blue.png"; sourceTree = "<group>"; };
 		22DA6A1714860CD800A34F8F /* 02-button_blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "02-button_blue.png"; path = "LowRes/02-button_blue.png"; sourceTree = "<group>"; };
 		22DA6A1814860CD800A34F8F /* 03-button_blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "03-button_blue.png"; path = "LowRes/03-button_blue.png"; sourceTree = "<group>"; };
@@ -416,8 +416,8 @@
 		9C09F88C12CDEF7E0032D581 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
 		9C09F8D912CDF7280032D581 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 		9C09F8DB12CDF7380032D581 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
-		9C40FA7312CBB8ED002DC504 /* MatchManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchManager.h; sourceTree = "<group>"; };
-		9C40FA7412CBB8ED002DC504 /* MatchManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MatchManager.m; sourceTree = "<group>"; };
+		9C40FA7312CBB8ED002DC504 /* TrackManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TrackManager.h; sourceTree = "<group>"; };
+		9C40FA7412CBB8ED002DC504 /* TrackManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TrackManager.m; sourceTree = "<group>"; };
 		9C40FDD812CBBA76002DC504 /* MatchGameConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MatchGameConfig.h; sourceTree = "<group>"; };
 		9C40FE4212CBD41D002DC504 /* TileSprite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TileSprite.h; sourceTree = "<group>"; };
 		9C40FE4312CBD41D002DC504 /* TileSprite.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TileSprite.m; sourceTree = "<group>"; };
@@ -791,8 +791,8 @@
 				506EDC30102F528A00A389B3 /* HelloWorldScene.m */,
 				E0F80F5E120A0182005866B8 /* RootViewController.h */,
 				E0F80F5F120A0182005866B8 /* RootViewController.m */,
-				1F3B9A2C0EF2145700286867 /* MatchKanaAppDelegate.h */,
-				1F3B9A2B0EF2145700286867 /* MatchKanaAppDelegate.m */,
+				1F3B9A2C0EF2145700286867 /* TraxAppDelegate.h */,
+				1F3B9A2B0EF2145700286867 /* TraxAppDelegate.m */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -916,8 +916,8 @@
 		9C40FA7612CBB8F3002DC504 /* MatchManager */ = {
 			isa = PBXGroup;
 			children = (
-				9C40FA7312CBB8ED002DC504 /* MatchManager.h */,
-				9C40FA7412CBB8ED002DC504 /* MatchManager.m */,
+				9C40FA7312CBB8ED002DC504 /* TrackManager.h */,
+				9C40FA7412CBB8ED002DC504 /* TrackManager.m */,
 				9C40FDD812CBBA76002DC504 /* MatchGameConfig.h */,
 			);
 			name = MatchManager;
@@ -1368,6 +1368,9 @@
 /* Begin PBXProject section */
 		29B97313FDCFA39411CA2CEA /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+			};
 			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "8trax" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -1462,10 +1465,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
-				1F3B9A2D0EF2145700286867 /* MatchKanaAppDelegate.m in Sources */,
+				1F3B9A2D0EF2145700286867 /* TraxAppDelegate.m in Sources */,
 				506EDC31102F528A00A389B3 /* HelloWorldScene.m in Sources */,
 				E0F80F60120A0182005866B8 /* RootViewController.m in Sources */,
-				9C40FA7512CBB8ED002DC504 /* MatchManager.m in Sources */,
+				9C40FA7512CBB8ED002DC504 /* TrackManager.m in Sources */,
 				9C40FE4412CBD41D002DC504 /* TileSprite.m in Sources */,
 				9C40FE7512CBD8C4002DC504 /* NSMutableArray+Shuffle.m in Sources */,
 				9C40FF3C12CBE3C9002DC504 /* CardFlipAction.m in Sources */,
@@ -1595,11 +1598,11 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_DYNAMIC_NO_PIC = NO;
-				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = 8trax_Prefix.pch;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Resources/Info.plist;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				ONLY_ACTIVE_ARCH = YES;
@@ -1607,7 +1610,6 @@
 					"-all_load",
 					"-ObjC",
 				);
-				PREBINDING = NO;
 				PRODUCT_NAME = 8trax;
 				TARGETED_DEVICE_FAMILY = 1;
 				WARNING_CFLAGS = "-Wall";
@@ -1620,10 +1622,10 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = 8trax_Prefix.pch;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = Resources/Info.plist;
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
 				ONLY_ACTIVE_ARCH = NO;
@@ -1631,7 +1633,6 @@
 					"-all_load",
 					"-ObjC",
 				);
-				PREBINDING = NO;
 				PRODUCT_NAME = 8trax;
 				TARGETED_DEVICE_FAMILY = 1;
 				VALIDATE_PRODUCT = YES;
@@ -1647,7 +1648,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
-				PREBINDING = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				PRODUCT_NAME = "cocos2d libraries";
 			};
 			name = Debug;
@@ -1658,9 +1659,8 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				GCC_ENABLE_FIX_AND_CONTINUE = NO;
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
-				PREBINDING = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				PRODUCT_NAME = "cocos2d libraries";
 				ZERO_LINK = NO;
 			};
@@ -1686,7 +1686,6 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				ONLY_ACTIVE_ARCH = YES;
-				PREBINDING = NO;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;
@@ -1709,7 +1708,6 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
-				PREBINDING = NO;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				SDKROOT = iphoneos;

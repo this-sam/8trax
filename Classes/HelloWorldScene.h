@@ -9,21 +9,21 @@
 
 // When you import this file, you import all the cocos2d classes
 #import "cocos2d.h"
-#import "MatchManager.h"
+#import "TrackManager.h"
 #import "MatchGameConfig.h"
 #import "TileSprite.h"
 
 // HelloWorld Layer
 @interface MatchGameScene : CCLayer
 {
-	MatchManager* manager;
+	TrackManager* manager;
 	CCMenuItemImage* btnLableVisible;
 	CCMenu* gameMenu;
 	
 //	UIViewController *viewController;
 }
 
-@property (retain, nonatomic) MatchManager* manager;
+@property (retain, nonatomic) TrackManager* manager;
 @property (retain, nonatomic) CCMenu* gameMenu;
 
 // returns a Scene that contains the HelloWorld as the only child

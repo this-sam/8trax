@@ -6,17 +6,17 @@
 //  Copyright 2010 Marin Todorov. All rights reserved.
 //
 
-#import "MatchManager.h"
+#import "TrackManager.h"
 #import "NSMutableArray+Shuffle.h"
 
-@interface MatchManager(Private)
+@interface TrackManager(Private)
 
 -(void)removeMatchingTiles:(NSArray*)tiles;
 
 @end
 
 
-@implementation MatchManager
+@implementation TrackManager
 
 @synthesize tileNames;
 @synthesize openTiles, tileSet;

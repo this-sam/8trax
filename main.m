@@ -10,7 +10,7 @@
 
 int main(int argc, char *argv[]) {
 	NSAutoreleasePool *pool = [NSAutoreleasePool new];
-	int retVal = UIApplicationMain(argc, argv, nil, @"MatchKanaAppDelegate");
+	int retVal = UIApplicationMain(argc, argv, nil, @"TraxAppDelegate");
 	[pool release];
 	return retVal;
 }

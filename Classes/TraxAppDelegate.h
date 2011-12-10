@@ -10,7 +10,7 @@
 
 @class RootViewController;
 
-@interface MatchKanaAppDelegate : NSObject <UIApplicationDelegate> {
+@interface TraxAppDelegate : NSObject <UIApplicationDelegate> {
 	UIWindow			*window;
 	RootViewController	*viewController;
 }

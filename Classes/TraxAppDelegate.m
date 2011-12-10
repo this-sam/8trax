@@ -8,12 +8,12 @@
 
 #import "cocos2d.h"
 
-#import "MatchKanaAppDelegate.h"
+#import "TraxAppDelegate.h"
 #import "GameConfig.h"
 #import "HelloWorldScene.h"
 #import "RootViewController.h"
 
-@implementation MatchKanaAppDelegate
+@implementation TraxAppDelegate
 
 @synthesize window;
 

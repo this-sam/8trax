@@ -14,7 +14,7 @@
 #import "SimpleAudioEngine.h"
 #import "TileSpriteDelegateProtocol.h"
 
-@interface MatchManager : NSObject<TileSpriteDelegateProtocol> {
+@interface TrackManager : NSObject<TileSpriteDelegateProtocol> {
 	
 	NSArray* tileNames;
 	
