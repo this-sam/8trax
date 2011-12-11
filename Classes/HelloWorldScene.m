@@ -71,8 +71,9 @@
 -(void)createTileSet
 {
 	// ask director the the window size
-	
-	self.manager.tileSet.position = ccp(7, 100);
+    CGSize size = [[CCDirector sharedDirector] winSize];
+	NSLog(@"Window Size: %0.2f x %0.2f", size.width, size.height);
+	self.manager.tileSet.position = ccp(100, 0);
 	[self addChild:self.manager.tileSet];
 	
 }
