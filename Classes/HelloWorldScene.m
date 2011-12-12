@@ -61,8 +61,8 @@
 
 		//create the screen elements
 		[self createTileSet];
-		[self createMenu];
-		[self createUI];
+		//[self createMenu];
+		//[self createUI];
 	}
 	
 	return self;
@@ -73,7 +73,11 @@
 	// ask director the the window size
     CGSize size = [[CCDirector sharedDirector] winSize];
 	NSLog(@"Window Size: %0.2f x %0.2f", size.width, size.height);
-	self.manager.tileSet.position = ccp(100, 0);
+    
+    int left_margin = (size.width - kTileWidth*kTileSetWidth)/2;
+    int bottom_margin = (size.height - kTileHeight*kTileSetHeight)/2;
+    
+	self.manager.tileSet.position = ccp(left_margin, bottom_margin);
 	[self addChild:self.manager.tileSet];
 	
 }

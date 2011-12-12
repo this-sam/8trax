@@ -9,11 +9,11 @@
 #define kTileSetWidth 4
 #define kTileSetHeight 4
 
-#define kTileWidth 72.5
-#define kTileHeight 72.5
+#define kTileWidth 26
+#define kTileHeight 26
 
-#define kTileMarginRight 6
-#define kTileMarginBottom 6
+#define kTileMarginRight 0
+#define kTileMarginBottom 0
 
 #define kTileBackName @"tileBack.png"
 
