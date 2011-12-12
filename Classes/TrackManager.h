@@ -20,7 +20,7 @@
 	
 	CCSprite* tileBack;
 	
-	NSMutableArray* openTiles;
+    NSMutableArray* tracks;
 	
 	CCMenu* tileSet;
 	
@@ -34,13 +34,10 @@
 	BOOL dispatchTouches;
 }
 
-@property (nonatomic, retain) NSArray* tileNames;
 @property (nonatomic, retain) CCSprite* tileBack;
 @property (nonatomic, retain) CCSprite* tileFront;
-@property (nonatomic, retain) NSMutableArray* openTiles;
+@property (nonatomic, retain) NSMutableArray* tracks;
 @property (nonatomic, retain) CCMenu* tileSet;
-
-@property (assign, readwrite) int numOpenTiles;
 
 @property (retain, nonatomic) CCSprite* winText;
 @property (retain, nonatomic) CCMenu* menuWin;

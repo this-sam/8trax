@@ -18,9 +18,8 @@
 
 @implementation TrackManager
 
-@synthesize tileNames;
-@synthesize openTiles, tileSet;
-@synthesize tileBack, tileFront, numOpenTiles;
+@synthesize tracks, tileSet;
+@synthesize tileBack, tileFront;
 @synthesize winText, menuWin;
 
 -(id)init
@@ -28,10 +27,9 @@
 	self = [super init];
 	if (self != nil) {
 		//initialization
-		self.tileNames = nil;
 		
 		[self load];
-		self.openTiles = [NSMutableArray arrayWithCapacity:kTileSetHeight];
+		self.tracks = [NSMutableArray arrayWithCapacity:kTileSetHeight];
 		self.tileBack = [CCSprite spriteWithFile: kTileBackName ];
         self.tileFront = [CCSprite spriteWithFile: kTileFrontName];
 		
@@ -46,85 +44,97 @@
 	return self;
 }
 
--(void)loadTileNames
-{
-	NSString* fileNamePattern = [NSString stringWithFormat:@"-%@.png", kSet1Name];
-	NSMutableArray* result = [NSMutableArray array];
-	NSFileManager* fileManager = [NSFileManager defaultManager];
-	
-	for (NSString* fileName in [fileManager contentsOfDirectoryAtPath: [[NSBundle mainBundle] resourcePath] error:nil]){
-		if ( [fileName rangeOfString:fileNamePattern].location != NSNotFound  ) {
-
-			[result addObject: 
-			 //remove the extra info from the filename
-			 [fileName stringByReplacingOccurrencesOfString:fileNamePattern withString:@""]
-			 ];
-		}
-	}
-	
-	self.tileNames = [NSArray arrayWithArray: result];
-	//DLog(@"tile set: %@", self.tileNames);
-}
 
 -(void)load
 {
-	//load the names of the tiles
-	if (self.tileNames == nil) {
-		[self loadTileNames];
-	}
-	
-	//load the sprites and randomize the board
-	
-	int count = kTileSetWidth * kTileSetHeight;
-	
-	NSMutableArray*	names1 = [NSMutableArray arrayWithCapacity:count];
-	NSMutableArray* result = [NSMutableArray arrayWithCapacity:count];
-	
-	while ([names1 count]<count/2) {
-		//load tile names
-		int nr = arc4random() % [tileNames count];
-		NSString* tileTag = [tileNames objectAtIndex:nr];
-		NSString* name1 = [NSString stringWithFormat:@"%@-%@.png", tileTag, kSet1Name ];
+	//load the sprites
 		
-		if ( ! [names1 containsObject: name1] ) {
-			
-			[names1 addObject: name1];
-
-			TileSprite* tile = [TileSprite itemFromNormalImage:name1 selectedImage:name1 target:self selector:@selector(dispatchTileTap:)];
-			tile.tileTag = tileTag;
-			tile.fileName = name1;
-			tile.manager = self;
-			tile.tag = [result count];
-			tile.isLabelVisible = isTileLabelVisible;
-			[result addObject: tile];
-			
-			NSString* name2 = [NSString stringWithFormat:@"%@-%@.png", tileTag, kSet2Name ];
-			
-			TileSprite* tile2 = [TileSprite itemFromNormalImage:name2 selectedImage:name2 target:self selector:@selector(dispatchTileTap:)];
-			tile2.tileTag = tileTag;
-			tile2.fileName = name2;
-			tile2.manager = self;
-			tile2.tag = [result count];
-			tile2.isLabelVisible = isTileLabelVisible;
-			[result addObject: tile2];
-		}
-	}
-
-	self.tileSet = [CCMenu menuWithItems:nil];
-	
-	for (int i=0;i<kTileSetWidth;i++) {
-		for (int j=0;j<kTileSetHeight;j++) {
-			TileSprite* tile = (TileSprite*)[result objectAtIndex: i*kTileSetWidth + j];
-			tile.tilePosition = ccp(i,j);
+	self.tracks = [NSMutableArray arrayWithCapacity:kTileSetHeight];
+    self.tileSet = [CCMenu menuWithItems:nil];
+    
+    for (int i=0; i<kTileSetHeight; i++){
+        [self.tracks addObject:[NSMutableArray arrayWithCapacity:kTileSetWidth]];
+        NSLog(@"Adding track %i", i);
+        for (int j=0;j< kTileSetWidth; j++){
+            TileSprite* tile = [TileSprite itemFromNormalImage:kTileFrontName selectedImage:kTileFrontName target:self selector:@selector(dispatchTileTap:)];
+            tile.tileTag = [NSString stringWithFormat:@"%i,%i",i,j];
+            tile.fileName = kTileFrontName;
+            tile.manager = self;
+            int tag = (i*kTileSetWidth+j);
+            tile.tag = [NSString stringWithFormat:@"%i", tag]; //unique tags for each tile
+            tile.isLabelVisible = isTileLabelVisible;
+			[[tracks objectAtIndex:i] addObject: tile];
+            NSLog(@"\tTile %i,%i added", i,j);
+            tile.tilePosition = ccp(j,i);
 			[self.tileSet addChild:tile z:1000];
 			[tile showBack];
-		}
-	}
-
-	self.numOpenTiles = 0;
-	
-	//DLog(@"selection: %@", self.sprites );
+            NSLog(@"\tTile %i,%i drawn", i,j);
+        }
+    }
 }
+/*
+ 
+ OLD LOAD TILES FUNCTION
+ 
+ -(void)load
+ {
+ //load the names of the tiles
+ if (self.tileNames == nil) {
+ [self loadTileNames];
+ }
+ 
+ //load the sprites and randomize the board
+ 
+ int count = kTileSetWidth * kTileSetHeight;
+ 
+ NSMutableArray*	names1 = [NSMutableArray arrayWithCapacity:count];
+ NSMutableArray* result = [NSMutableArray arrayWithCapacity:count];
+ 
+ while ([names1 count]<count/2) {
+ //load tile names
+ int nr = arc4random() % [tileNames count];
+ NSString* tileTag = [tileNames objectAtIndex:nr];
+ NSString* name1 = [NSString stringWithFormat:@"%@-%@.png", tileTag, kSet1Name ];
+ 
+ if ( ! [names1 containsObject: name1] ) {
+ 
+ [names1 addObject: name1];
+ 
+ TileSprite* tile = [TileSprite itemFromNormalImage:name1 selectedImage:name1 target:self selector:@selector(dispatchTileTap:)];
+ tile.tileTag = tileTag;
+ tile.fileName = name1;
+ tile.manager = self;
+ tile.tag = [result count];
+ tile.isLabelVisible = isTileLabelVisible;
+ [result addObject: tile];
+ 
+ NSString* name2 = [NSString stringWithFormat:@"%@-%@.png", tileTag, kSet2Name ];
+ 
+ TileSprite* tile2 = [TileSprite itemFromNormalImage:name2 selectedImage:name2 target:self selector:@selector(dispatchTileTap:)];
+ tile2.tileTag = tileTag;
+ tile2.fileName = name2;
+ tile2.manager = self;
+ tile2.tag = [result count];
+ tile2.isLabelVisible = isTileLabelVisible;
+ [result addObject: tile2];
+ }
+ }
+ 
+ self.tileSet = [CCMenu menuWithItems:nil];
+ 
+ for (int i=0;i<kTileSetWidth;i++) {
+ for (int j=0;j<kTileSetHeight;j++) {
+ TileSprite* tile = (TileSprite*)[result objectAtIndex: i*kTileSetWidth + j];
+ tile.tilePosition = ccp(i,j);
+ [self.tileSet addChild:tile z:1000];
+ [tile showBack];
+ }
+ }
+ 
+ self.numOpenTiles = 0;
+ 
+ //DLog(@"selection: %@", self.sprites );
+ }*/
 
 -(void)dispatchTileTap:(id)sender
 {
@@ -143,7 +153,7 @@
 
 -(void)didOpenTile:(TileSprite*)tile
 {
-	[self.openTiles addObject: tile];
+	//[self.openTiles addObject: tile];
 	
 	/*if ([self.openTiles count]>1) {
 		TileSprite* tile1 = [self.openTiles objectAtIndex:0];
@@ -168,7 +178,7 @@
 -(void)didTilesClose
 {
 	//clear the open tiles
-	[self.openTiles removeAllObjects];
+	[self.tracks removeAllObjects];
 }
 
 -(void)removeMatchingTiles:(NSArray*)tiles
@@ -191,11 +201,11 @@
 		 ];
 	}
 	
-	[self.openTiles removeAllObjects];
+	[self.tracks removeAllObjects];
 	
-	self.numOpenTiles += 2;
+	//self.numOpenTiles += 2;
 	
-	if (self.numOpenTiles == kTileSetWidth * kTileSetHeight) {
+	/*if (0 == kTileSetWidth * kTileSetHeight) {
 		//make sound
 		[[SimpleAudioEngine sharedEngine] playEffect:kWinAudioFilename];
 		
@@ -212,7 +222,7 @@
 		
 		//order the tiles
 		[self showWinAnimation];
-	}
+	}*/
 }
 
 -(void)showNewGameMenu
@@ -238,8 +248,8 @@
 	numOpenTiles = 0;
 	
 	//reload the tile set
-	[self.openTiles removeAllObjects];
-	self.openTiles = [NSMutableArray arrayWithCapacity:2];
+	[self.tracks removeAllObjects];
+	self.tracks = [NSMutableArray arrayWithCapacity:2];
 }
 
 -(void)showWinAnimation
@@ -276,8 +286,7 @@
 
 -(void)dealloc
 {
-    self.tileNames = nil;
-    self.openTiles = nil;
+    self.tracks = nil;
     self.tileSet = nil;
     
 	self.tileBack = nil;

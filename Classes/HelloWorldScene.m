@@ -63,6 +63,10 @@
 		[self createTileSet];
 		//[self createMenu];
 		//[self createUI];
+        //dispatch loop manager    
+        
+        NSLog(@"Dispatching loop manager...");
+        [NSThread detachNewThreadSelector:@selector(startLooping) toTarget:[Looper class] withObject:nil];
 	}
 	
 	return self;
@@ -75,7 +79,7 @@
 	NSLog(@"Window Size: %0.2f x %0.2f", size.width, size.height);
     
     int left_margin = (size.width - kTileWidth*kTileSetWidth)/2;
-    int bottom_margin = (size.height - kTileHeight*kTileSetHeight)/2;
+    int bottom_margin = (size.height - kTileHeight*kTileSetHeight)/5*2;
     
 	self.manager.tileSet.position = ccp(left_margin, bottom_margin);
 	[self addChild:self.manager.tileSet];
@@ -132,7 +136,7 @@
 	
 	[self.manager load];
 	[self createTileSet];
-	
+
 	self.manager.menuWin.visible = NO;
 }
 
