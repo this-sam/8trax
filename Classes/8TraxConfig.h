@@ -16,6 +16,7 @@
 #define kTileMarginBottom 0
 
 #define kTileBackName @"tileBack.png"
+#define kTileFrontName @"tileFront.png"
 
 #define kMatchAudioFilename @"match.caf"
 #define kWinAudioFilename @"win.caf"

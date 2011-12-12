@@ -20,7 +20,7 @@
 
 @synthesize tileNames;
 @synthesize openTiles, tileSet;
-@synthesize tileBack, numOpenTiles;
+@synthesize tileBack, tileFront, numOpenTiles;
 @synthesize winText, menuWin;
 
 -(id)init
@@ -31,8 +31,9 @@
 		self.tileNames = nil;
 		
 		[self load];
-		self.openTiles = [NSMutableArray arrayWithCapacity:2];
+		self.openTiles = [NSMutableArray arrayWithCapacity:kTileSetHeight];
 		self.tileBack = [CCSprite spriteWithFile: kTileBackName ];
+        self.tileFront = [CCSprite spriteWithFile: kTileFrontName];
 		
 		//audio
 		[[SimpleAudioEngine sharedEngine] preloadEffect:kMatchAudioFilename];
@@ -76,8 +77,8 @@
 	
 	int count = kTileSetWidth * kTileSetHeight;
 	
-	NSMutableArray*	names1 = [NSMutableArray arrayWithCapacity: count];
-	NSMutableArray* result = [NSMutableArray arrayWithCapacity:kTileSetWidth * kTileSetHeight];
+	NSMutableArray*	names1 = [NSMutableArray arrayWithCapacity:count];
+	NSMutableArray* result = [NSMutableArray arrayWithCapacity:count];
 	
 	while ([names1 count]<count/2) {
 		//load tile names
@@ -108,11 +109,6 @@
 			[result addObject: tile2];
 		}
 	}
-	
-	/*/randomize the sprites
-	srand(time(NULL));
-	[result shuffle];
-	[result shuffle];*/
 
 	self.tileSet = [CCMenu menuWithItems:nil];
 	

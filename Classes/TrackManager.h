@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import "MatchGameConfig.h"
+#import "8TraxConfig.h"
 #import "TileSprite.h"
 
 #import "SimpleAudioEngine.h"
@@ -36,6 +36,7 @@
 
 @property (nonatomic, retain) NSArray* tileNames;
 @property (nonatomic, retain) CCSprite* tileBack;
+@property (nonatomic, retain) CCSprite* tileFront;
 @property (nonatomic, retain) NSMutableArray* openTiles;
 @property (nonatomic, retain) CCMenu* tileSet;
 

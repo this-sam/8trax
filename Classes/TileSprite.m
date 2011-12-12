@@ -111,12 +111,12 @@
 {
 	DLog(@"tap on [%.f,%.f]", tilePosition.x, tilePosition.y);
 	
-	if (self.isOpen == NO) {
-		[self flip: !self.isOpen];
-		return YES;
-	}
+	//if (self.isOpen == NO) {
+    [self flip: !self.isOpen];
+	return YES;
+	//}
 	
-	return NO;
+	//return NO;
 }
 
 -(CGPoint)getWinningPositionForTilePos:(CGPoint)pos

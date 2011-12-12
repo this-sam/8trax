@@ -8,7 +8,7 @@
 
 #import <Foundation/Foundation.h>
 #import "cocos2d.h"
-#import "MatchGameConfig.h"
+#import "8TraxConfig.h"
 #import "CardFlipAction.h"
 
 #import "TileSpriteDelegateProtocol.h"
@@ -39,8 +39,6 @@
 
 @property (retain, nonatomic) NSString* fileName;
 @property (retain, nonatomic) CCLabelTTF* label;
-
-@property (retain, nonatomic) NSString* audioFile;
 
 @property (assign, nonatomic) id<TileSpriteDelegateProtocol> manager;
 
